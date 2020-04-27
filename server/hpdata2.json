@@ -1,0 +1,2877 @@
+[
+{"name":"le senechal","latitude":-3.6777094,"longitude":48.4326329}
+,
+{"name":"la maison carrier","latitude":6.8744673,"longitude":45.9251635}
+,
+{"name":"l'auberge du relais","latitude":-0.856576,"longitude":43.5022696}
+,
+{"name":"auberge du boenlesgrab","latitude":7.147959,"longitude":47.976574}
+,
+{"name":"cesar etoile","latitude":2.2968461,"longitude":48.8757889}
+,
+{"name":"la charbonniere","latitude":-1.1821555,"longitude":47.3635768}
+,
+{"name":"le 1837 victor hugo","latitude":1.4509013,"longitude":50.1044627}
+,
+{"name":"le bistrot des halles","latitude":0.1036045,"longitude":49.4902971}
+,
+{"name":"le manoir du sphinx","latitude":-3.4363035,"longitude":48.8198429}
+,
+{"name":"les marronniers","latitude":4.2211008,"longitude":44.6753029}
+,
+{"name":"le temps d'm","latitude":6.478854,"longitude":46.3726596}
+,
+{"name":"brasserie l'anicien","latitude":3.8853971,"longitude":45.0422609}
+,
+{"name":"a l'ere du temps","latitude":4.0245496,"longitude":49.2669726}
+,
+{"name":"hôtel restaurant kermoor","latitude":-4.6371344,"longitude":48.0297324}
+,
+{"name":"la courtine","latitude":-0.3240323,"longitude":45.7060581}
+,
+{"name":"le petit coq aux champs","latitude":0.5469573,"longitude":49.3212641}
+,
+{"name":"la bergerie de planpraz","latitude":6.837519,"longitude":45.9338539}
+,
+{"name":"l'adret de la flegere","latitude":6.886052,"longitude":45.960312}
+,
+{"name":"plan joran","latitude":6.927672,"longitude":45.9789168}
+,
+{"name":"restaurant le 3842","latitude":6.8874243,"longitude":45.8793111}
+,
+{"name":"château colbert","latitude":-0.746103,"longitude":47.0074946}
+,
+{"name":"domeva caffe","latitude":4.8042413,"longitude":45.7768526}
+,
+{"name":"ma belle provence","latitude":3.5497335,"longitude":49.4676733}
+,
+{"name":"restaurant chabert et fils","latitude":4.8346927,"longitude":45.7568069}
+,
+{"name":"coco kafe l'aquarium","latitude":-61.523147,"longitude":16.220144}
+,
+{"name":"l'ambrosia","latitude":2.26632,"longitude":43.254666}
+,
+{"name":"l'atelier des saveurs","latitude":2.6594747,"longitude":50.4824972}
+,
+{"name":"l'auberge du manet","latitude":2.0208301,"longitude":48.7640754}
+,
+{"name":"le puits fleuri","latitude":5.191695,"longitude":43.859692}
+,
+{"name":"le tivoli","latitude":0.0549867,"longitude":43.385637}
+,
+{"name":"les bains de secours","latitude":-0.3908308,"longitude":43.1326304}
+,
+{"name":"restaurant le jolla","latitude":6.4096576,"longitude":46.347303}
+,
+{"name":"vatel chantilly","latitude":2.4657944,"longitude":49.1943675}
+,
+{"name":"auberge du born","latitude":-1.2266266,"longitude":44.0615835}
+,
+{"name":"auberge du cygne de la croix","latitude":3.4995837,"longitude":48.4936974}
+,
+{"name":"la mere germaine","latitude":7.3117876,"longitude":43.7029831}
+,
+{"name":"le lido","latitude":6.841095,"longitude":48.0680323}
+,
+{"name":"l'ecluse","latitude":3.2646295,"longitude":43.3230412}
+,
+{"name":"les epicuriens","latitude":3.8823011,"longitude":49.6156617}
+,
+{"name":"hôtel-restaurant le saint-jacques","latitude":0.535725,"longitude":48.0404996}
+,
+{"name":"la charrue d'or","latitude":7.0714263,"longitude":49.1076792}
+,
+{"name":"la grande tour","latitude":1.7559063,"longitude":47.8597969}
+,
+{"name":"la maison de marie","latitude":7.268643,"longitude":43.6977297}
+,
+{"name":"la merenda","latitude":6.6428284,"longitude":43.778705}
+,
+{"name":"la poissonnerie du cap","latitude":3.521553,"longitude":43.2967596}
+,
+{"name":"la table de beaurecueil","latitude":5.5434094,"longitude":43.5127684}
+,
+{"name":"la table de la roya","latitude":9.303704,"longitude":42.681846}
+,
+{"name":"le bellevue","latitude":6.8113212,"longitude":47.3161947}
+,
+{"name":"le grangousier","latitude":4.1332805,"longitude":44.4052916}
+,
+{"name":"villa des bordes","latitude":1.7594476,"longitude":47.8190799}
+,
+{"name":"la civelle","latitude":-1.5827974,"longitude":47.1945019}
+,
+{"name":"l'amer","latitude":-61.7945979,"longitude":16.3077145}
+,
+{"name":"l'auberge de la forge","latitude":3.1610725,"longitude":50.6484683}
+,
+{"name":"le beau rivage","latitude":4.7600118,"longitude":45.4575305}
+,
+{"name":"le petit bistrot","latitude":1.4894264,"longitude":48.4463038}
+,
+{"name":"le ranch des lacs","latitude":1.705542,"longitude":45.782842}
+,
+{"name":"tourbillon","latitude":0.2320724,"longitude":49.4211488}
+,
+{"name":"auberge  cheval blanc","latitude":1.8526461,"longitude":47.6326213}
+,
+{"name":"casa nissa","latitude":7.2703883,"longitude":43.6981948}
+,
+{"name":"la maison des halles","latitude":0.6798048,"longitude":47.3920762}
+,
+{"name":"le saint georges","latitude":3.9310413,"longitude":43.5266155}
+,
+{"name":"le savoie","latitude":-0.6785559,"longitude":45.0436986}
+,
+{"name":"les copains d'abord","latitude":1.4581018,"longitude":43.6015093}
+,
+{"name":"ail des ours","latitude":2.2991613,"longitude":49.8931933}
+,
+{"name":"auberge de la petite reine","latitude":0.89136,"longitude":44.793334}
+,
+{"name":"cote saveurs","latitude":5.4449203,"longitude":45.5637962}
+,
+{"name":"la colombe","latitude":5.2233003,"longitude":44.1205258}
+,
+{"name":"la grenouillere","latitude":6.2639049,"longitude":45.2144291}
+,
+{"name":"la tabl'ature","latitude":4.8420407,"longitude":45.7525656}
+,
+{"name":"le monarque","latitude":6.8724788,"longitude":47.4548958}
+,
+{"name":"le moulin de celac","latitude":-2.4652219,"longitude":47.6610108}
+,
+{"name":"le pecoitz","latitude":-1.1902344,"longitude":43.1603194}
+,
+{"name":"les capucins","latitude":6.8574724,"longitude":47.6356471}
+,
+{"name":"restaurant du commerce","latitude":-0.1075949,"longitude":43.8669229}
+,
+{"name":"restaurant tante yvonne","latitude":4.7794914,"longitude":45.9194422}
+,
+{"name":"taverne katz","latitude":7.3626896,"longitude":48.7410595}
+,
+{"name":"au bon vivre","latitude":-61.5821065,"longitude":15.868839}
+,
+{"name":"au vieux gassin","latitude":6.585912,"longitude":43.228376}
+,
+{"name":"clos deauville saint gatien","latitude":0.187106,"longitude":49.347918}
+,
+{"name":"la table de sandorine","latitude":4.3667305,"longitude":49.5203838}
+,
+{"name":"le sejour cafe","latitude":7.2648058,"longitude":43.698964}
+,
+{"name":"restaurant ar iniz","latitude":-1.9916149,"longitude":48.6615711}
+,
+{"name":"auberge de l'artoire","latitude":1.8720196,"longitude":48.7095362}
+,
+{"name":"domaine de la grange aux ormes","latitude":6.1497033,"longitude":49.0799589}
+,
+{"name":"la lozerette","latitude":3.621762,"longitude":44.3481499}
+,
+{"name":"la table de guy","latitude":4.92772,"longitude":45.739587}
+,
+{"name":"le bouchon biarrot","latitude":-1.5561613,"longitude":43.4849873}
+,
+{"name":"le faux filet","latitude":2.3299833,"longitude":48.8747509}
+,
+{"name":"le pont bernet","latitude":-0.7034424,"longitude":44.9547996}
+,
+{"name":"les relais d'alsace","latitude":-1.5373257,"longitude":47.1562992}
+,
+{"name":"les tourelles","latitude":1.6240198,"longitude":50.2145487}
+,
+{"name":"restaurant du château","latitude":4.4320756,"longitude":46.8411842}
+,
+{"name":"belle isle sur risle","latitude":0.5387148,"longitude":49.3531074}
+,
+{"name":"brasserie le m","latitude":1.8958428,"longitude":47.8984093}
+,
+{"name":"château de la commanderie","latitude":5.749005,"longitude":45.1476949}
+,
+{"name":"le plaisir des gourmands","latitude":4.5251558,"longitude":45.6849245}
+,
+{"name":"les bartavelles","latitude":6.4791173,"longitude":44.5422283}
+,
+{"name":"les fines gueules","latitude":4.8279314,"longitude":45.7649256}
+,
+{"name":"les gentianettes","latitude":6.788305,"longitude":46.2964918}
+,
+{"name":"restaurant delicatessen","latitude":6.5351239,"longitude":43.178028}
+,
+{"name":"auberge de thoire","latitude":5.5187229,"longitude":46.265397}
+,
+{"name":"auberge lucas","latitude":-1.8557553,"longitude":48.269501}
+,
+{"name":"comptoir des voyageurs","latitude":-4.2083327,"longitude":48.098366}
+,
+{"name":"hostellerie d'alsace","latitude":7.1765538,"longitude":47.8033817}
+,
+{"name":"la grange","latitude":0.1660593,"longitude":44.4969011}
+,
+{"name":"la laurendiere","latitude":1.9041835,"longitude":47.8709373}
+,
+{"name":"la quintessence","latitude":4.837703,"longitude":45.766236}
+,
+{"name":"le neptune","latitude":-3.0448302,"longitude":48.7793384}
+,
+{"name":"le tumulus","latitude":-3.0733174,"longitude":47.5876795}
+,
+{"name":"les terrasses de clairefontaine","latitude":1.9077334,"longitude":48.6130721}
+,
+{"name":"l'oursin bleu","latitude":7.312042,"longitude":43.7039152}
+,
+{"name":"restaurant cazaudehore","latitude":2.0832332,"longitude":48.9137489}
+,
+{"name":"restaurant christian quenel","latitude":4.9806667,"longitude":47.1656095}
+,
+{"name":"restaurant cugini","latitude":5.0471772,"longitude":45.7960375}
+,
+{"name":"restaurant de l'agriculture","latitude":2.436347,"longitude":44.277239}
+,
+{"name":"amarys  inter hotel","latitude":-1.5352929,"longitude":43.4717909}
+,
+{"name":"la corde a linge","latitude":7.7423772,"longitude":48.5811921}
+,
+{"name":"la petite auberge","latitude":-0.0889091,"longitude":47.8144601}
+,
+{"name":"la truffe dans tous ses etats","latitude":5.3977386,"longitude":43.4492233}
+,
+{"name":"soleil et jardin","latitude":4.8399593,"longitude":45.6394676}
+,
+{"name":"auberge de la tour","latitude":4.8327096,"longitude":46.3577192}
+,
+{"name":"brasserie georges","latitude":4.8261794,"longitude":45.7490661}
+,
+{"name":"cap o saveurs - ibis","latitude":-1.6236171,"longitude":48.1140885}
+,
+{"name":"la table du bourg","latitude":6.0343123,"longitude":45.0564464}
+,
+{"name":"le clair de lune","latitude":3.0663968,"longitude":50.6423628}
+,
+{"name":"le langoustier","latitude":-4.5984787,"longitude":48.2813093}
+,
+{"name":"le petit prince","latitude":6.8745573,"longitude":43.6560618}
+,
+{"name":"le robinson","latitude":-2.0608387,"longitude":46.7906207}
+,
+{"name":"maison gambert","latitude":4.8600047,"longitude":45.0726537}
+,
+{"name":"pizzeria rabah zaoui","latitude":2.3358955,"longitude":43.2235262}
+,
+{"name":"rotisserie vauban","latitude":6.0334451,"longitude":47.2342938}
+,
+{"name":"a deux pas d'ici","latitude":0.1137269,"longitude":49.4882544}
+,
+{"name":"acacias bellevue","latitude":6.1746237,"longitude":45.8869466}
+,
+{"name":"auberge du petit val","latitude":1.5097124,"longitude":49.0764256}
+,
+{"name":"beauséjour","latitude":4.1187749,"longitude":44.8489763}
+,
+{"name":"bistrot valois","latitude":2.3380782,"longitude":48.8634379}
+,
+{"name":"hôtel le bailliage","latitude":2.5014645,"longitude":45.1460688}
+,
+{"name":"jehan de valon","latitude":1.6182572,"longitude":44.8002303}
+,
+{"name":"la breche de roland","latitude":0.019136,"longitude":42.786403}
+,
+{"name":"la caravelle","latitude":5.7580336,"longitude":43.1366578}
+,
+{"name":"la grange aux marmottes","latitude":-0.0432593,"longitude":42.9107452}
+,
+{"name":"la langouste","latitude":7.2655464,"longitude":43.7020044}
+,
+{"name":"la muse et le rozier","latitude":3.187279,"longitude":44.195751}
+,
+{"name":"la table du meunier","latitude":-0.668857,"longitude":47.697999}
+,
+{"name":"le clos des sureaux","latitude":1.3349187,"longitude":47.5029533}
+,
+{"name":"le gourmet","latitude":2.847755,"longitude":50.104949}
+,
+{"name":"le grill","latitude":8.7407681,"longitude":41.929373}
+,
+{"name":"le jeroboam","latitude":2.3168415,"longitude":48.8291492}
+,
+{"name":"le malamock ii","latitude":-4.1695117,"longitude":47.8409864}
+,
+{"name":"le marsala","latitude":6.0504235,"longitude":43.1591387}
+,
+{"name":"le mesturet","latitude":2.3384067,"longitude":48.8690156}
+,
+{"name":"le relais d'aligre","latitude":1.2428457,"longitude":48.5803043}
+,
+{"name":"le royal","latitude":6.711145,"longitude":45.8926526}
+,
+{"name":"l'entrecote","latitude":-1.5578691,"longitude":47.2145749}
+,
+{"name":"les chais d'haussmann","latitude":-0.662504,"longitude":44.74213}
+,
+{"name":"restaurant family","latitude":3.4281958,"longitude":44.1776069}
+,
+{"name":"restaurant du commerce","latitude":2.241481,"longitude":44.307934}
+,
+{"name":"hostellerie de la cheneaudière","latitude":7.1842531,"longitude":48.3909134}
+,
+{"name":"l'absolu","latitude":-0.1448016,"longitude":44.4949012}
+,
+{"name":"les epices curiens","latitude":5.456621,"longitude":49.524581}
+,
+{"name":"les girelles","latitude":5.1106103,"longitude":43.3297898}
+,
+{"name":"restaurant a la 12","latitude":6.3917742,"longitude":48.8869251}
+,
+{"name":"u minellu","latitude":8.7576566,"longitude":42.5669379}
+,
+{"name":"wistub brenner","latitude":7.3577921,"longitude":48.0739142}
+,
+{"name":"auberge de la riviere","latitude":-0.8929987,"longitude":46.4063335}
+,
+{"name":"auberge saint thibault","latitude":2.8649631,"longitude":47.33769}
+,
+{"name":"château bellevue","latitude":-0.0746244,"longitude":43.9344485}
+,
+{"name":"colomba","latitude":9.4525584,"longitude":42.6956885}
+,
+{"name":"domaine du haut jardin","latitude":6.7317217,"longitude":48.1190937}
+,
+{"name":"la chaine d'or","latitude":1.3993473,"longitude":49.2420341}
+,
+{"name":"la gravelette","latitude":-1.9187316,"longitude":49.6757195}
+,
+{"name":"la lapiniere","latitude":3.174162,"longitude":43.3120447}
+,
+{"name":"la pergola","latitude":-1.2807456,"longitude":46.3099966}
+,
+{"name":"l'ambroisie","latitude":7.1158698,"longitude":43.7224133}
+,
+{"name":"l'armoire a delices","latitude":-1.623999,"longitude":49.64496}
+,
+{"name":"l'auberge cigaloise","latitude":3.8617795,"longitude":43.9580349}
+,
+{"name":"le madeleine","latitude":0.9260193,"longitude":48.7399764}
+,
+{"name":"le magny","latitude":4.3606438,"longitude":47.9833237}
+,
+{"name":"le patio","latitude":4.7123806,"longitude":43.7279847}
+,
+{"name":"le petit prince de paris","latitude":2.3465245,"longitude":48.8484283}
+,
+{"name":"le rive gauche","latitude":3.388745,"longitude":47.981644}
+,
+{"name":"le val verre","latitude":1.998834,"longitude":46.567505}
+,
+{"name":"les sources du moulin","latitude":-0.5636602,"longitude":46.0694727}
+,
+{"name":"l'escapade","latitude":5.1795812,"longitude":44.1253913}
+,
+{"name":"l'ilot de la godine","latitude":2.5247941,"longitude":46.691815}
+,
+{"name":"lou pebre d'aï","latitude":5.7121436,"longitude":43.3263749}
+,
+{"name":"petit courault","latitude":-0.081271,"longitude":46.391337}
+,
+{"name":"a fleur de sel","latitude":4.4271366,"longitude":43.4524629}
+,
+{"name":"la belle vita","latitude":4.9179363,"longitude":45.7778155}
+,
+{"name":"la coupe d'or","latitude":0.226922,"longitude":49.1439033}
+,
+{"name":"la table de leo","latitude":0.8159835,"longitude":44.7744854}
+,
+{"name":"la zygotheque","latitude":2.374933,"longitude":48.8293788}
+,
+{"name":"le ribouldingue","latitude":1.39945,"longitude":43.6345616}
+,
+{"name":"l'épicurien","latitude":2.1490314,"longitude":43.924601}
+,
+{"name":"la chassagnette","latitude":4.6678543,"longitude":43.5677974}
+,
+{"name":"le beaulieu","latitude":4.7360069,"longitude":45.7844589}
+,
+{"name":"les tresoms","latitude":6.1367603,"longitude":45.8895923}
+,
+{"name":"terrasse saint clair","latitude":4.8487342,"longitude":45.7859499}
+,
+{"name":"cafe veranda","latitude":5.2064971,"longitude":43.8307164}
+,
+{"name":"crêperie saint sauveur","latitude":-2.9783243,"longitude":47.665824}
+,
+{"name":"gaspard de la nuit","latitude":2.3675015,"longitude":48.8541367}
+,
+{"name":"hostellerie de la bouriane","latitude":1.386391,"longitude":44.735339}
+,
+{"name":"hotel du petit kohlberg","latitude":7.269635,"longitude":47.43752}
+,
+{"name":"la bisquine","latitude":-2.2994742,"longitude":47.0231585}
+,
+{"name":"la petite marmite","latitude":6.0774814,"longitude":44.5566095}
+,
+{"name":"la pierrevue","latitude":-1.0742094,"longitude":46.1509728}
+,
+{"name":"l'arrosoir","latitude":-1.0778859,"longitude":45.6393929}
+,
+{"name":"le bistrot de la perle","latitude":6.8758165,"longitude":48.0698316}
+,
+{"name":"le grenier à sel","latitude":2.605114,"longitude":46.3389705}
+,
+{"name":"le rabelais","latitude":5.0321434,"longitude":43.5502961}
+,
+{"name":"le trianon","latitude":6.1668056,"longitude":48.7076632}
+,
+{"name":"le vieux logis","latitude":-2.429663,"longitude":47.328426}
+,
+{"name":"les nympheas","latitude":2.6662182,"longitude":48.8545297}
+,
+{"name":"l'eyre 2 rien","latitude":-0.8708463,"longitude":44.5517582}
+,
+{"name":"tout va bien \"chez parenti\"","latitude":8.9020077,"longitude":41.6758195}
+,
+{"name":"hôtel le provence","latitude":4.0046561,"longitude":44.7299997}
+,
+{"name":"la brasserie du français","latitude":5.2250908,"longitude":46.2044873}
+,
+{"name":"la table de fred","latitude":7.25578,"longitude":47.9020573}
+,
+{"name":"restaurant birdy","latitude":5.3659603,"longitude":43.4817071}
+,
+{"name":"au jardin des saveurs","latitude":0.7012108,"longitude":47.7708864}
+,
+{"name":"auberge de l'atre","latitude":4.0324049,"longitude":47.3336178}
+,
+{"name":"auberge de pont calleck","latitude":-3.3336089,"longitude":47.9795996}
+,
+{"name":"aux maisons","latitude":4.1660107,"longitude":48.0086122}
+,
+{"name":"château des monthairons","latitude":5.412174,"longitude":49.0503377}
+,
+{"name":"chez marti","latitude":4.4736487,"longitude":44.5635244}
+,
+{"name":"du cote de marjon","latitude":4.668259,"longitude":45.666302}
+,
+{"name":"hôtel restaurant blanc","latitude":5.98527,"longitude":45.829325}
+,
+{"name":"la flibuste","latitude":7.1367569,"longitude":43.6350979}
+,
+{"name":"la grande bouteille","latitude":-0.3749707,"longitude":49.1819247}
+,
+{"name":"la table du 5","latitude":7.4500303,"longitude":48.4089496}
+,
+{"name":"l'abbaye de villeneuve","latitude":-1.53345,"longitude":47.123154}
+,
+{"name":"le binjamin","latitude":0.413373,"longitude":46.714474}
+,
+{"name":"le fleury","latitude":4.8355535,"longitude":47.022882}
+,
+{"name":"le grand hôtel & spa","latitude":6.873478,"longitude":48.0688241}
+,
+{"name":"le louis xvi","latitude":2.3233372,"longitude":48.8733117}
+,
+{"name":"le panoramique","latitude":-1.2987375,"longitude":49.6185792}
+,
+{"name":"l'entrecôte","latitude":1.4473267,"longitude":43.606714}
+,
+{"name":"les orangeries","latitude":0.7224542,"longitude":46.4034186}
+,
+{"name":"les sens de la toupine","latitude":5.0243553,"longitude":43.5631146}
+,
+{"name":"l'instant gourmet","latitude":7.0451423,"longitude":43.6223881}
+,
+{"name":"restaurant clementine","latitude":2.3416206,"longitude":48.8702119}
+,
+{"name":"tahiti beach cafe","latitude":8.7710947,"longitude":41.92795}
+,
+{"name":"au vieux pressoir","latitude":7.2573563,"longitude":47.9445676}
+,
+{"name":"aub du chemin de fer","latitude":-3.3460117,"longitude":47.7591031}
+,
+{"name":"hotel le warwick","latitude":2.3030515,"longitude":48.8722032}
+,
+{"name":"la bonne franquette","latitude":2.1531628,"longitude":48.6481761}
+,
+{"name":"l'ambassade","latitude":3.2197444,"longitude":43.3367978}
+,
+{"name":"l'atelier de marc meurin","latitude":2.8049429,"longitude":50.4317237}
+,
+{"name":"le clos de vallombreuse","latitude":-4.3301234,"longitude":48.0959481}
+,
+{"name":"le manoir dalmore","latitude":-3.7411311,"longitude":47.8057508}
+,
+{"name":"le sansot","latitude":7.0559817,"longitude":43.7146282}
+,
+{"name":"les boissieres","latitude":1.5344186,"longitude":44.0938545}
+,
+{"name":"l'image sainte anne","latitude":-2.7644528,"longitude":47.6592651}
+,
+{"name":"restaurant le chabichou","latitude":6.63469,"longitude":45.414659}
+,
+{"name":"restaurant le vivier","latitude":-3.4319058,"longitude":47.7008492}
+,
+{"name":"anse marcel beach","latitude":-63.04066,"longitude":18.112797}
+,
+{"name":"au soleil","latitude":7.2984077,"longitude":48.0589023}
+,
+{"name":"auberge de la loire","latitude":-0.861563,"longitude":47.392035}
+,
+{"name":"café gourmand","latitude":5.04188,"longitude":47.321012}
+,
+{"name":"chez nous","latitude":55.22723,"longitude":-21.051963}
+,
+{"name":"domaine la grange de condé","latitude":6.4312477,"longitude":49.1554271}
+,
+{"name":"hotel de la gare","latitude":3.7353932,"longitude":45.5496462}
+,
+{"name":"la corderie","latitude":-2.02779,"longitude":48.6349306}
+,
+{"name":"la réserve","latitude":3.3581053,"longitude":43.6847851}
+,
+{"name":"la table de nicolas","latitude":1.6069153,"longitude":50.7228286}
+,
+{"name":"la table des saisons","latitude":3.987097,"longitude":44.054241}
+,
+{"name":"le gourmandin","latitude":7.4468589,"longitude":47.6622881}
+,
+{"name":"le lion d'or ","latitude":0.9848794,"longitude":47.4137186}
+,
+{"name":"le quai","latitude":2.3046681,"longitude":49.8964166}
+,
+{"name":"le sud","latitude":-0.3150253,"longitude":43.3153068}
+,
+{"name":"le vieux bistrot","latitude":5.14907,"longitude":43.890972}
+,
+{"name":"les jardins de villennes","latitude":1.9990477,"longitude":48.938343}
+,
+{"name":"l'o a la bouche","latitude":6.0205699,"longitude":47.2379679}
+,
+{"name":"restaurant dormy house","latitude":0.2006936,"longitude":49.700002}
+,
+{"name":"restaurant la trinquette","latitude":-1.050013,"longitude":49.3870212}
+,
+{"name":"restaurant oh bouchoux","latitude":5.078389,"longitude":46.117407}
+,
+{"name":"sud hotel","latitude":7.5706964,"longitude":48.3599129}
+,
+{"name":"the place to","latitude":2.2975285,"longitude":48.8775879}
+,
+{"name":"bars et gourmets","latitude":4.764739,"longitude":45.4613194}
+,
+{"name":"bistrot berthet","latitude":4.8049719,"longitude":45.7741581}
+,
+{"name":"la closerie des roses","latitude":-1.0220557,"longitude":47.3711507}
+,
+{"name":"l'archelle","latitude":2.305849,"longitude":48.847121}
+,
+{"name":"le cesar","latitude":6.7487098,"longitude":43.4224271}
+,
+{"name":"le clos du cellier","latitude":-1.3465113,"longitude":47.318895}
+,
+{"name":"les quatre salines","latitude":-1.5900758,"longitude":48.5951755}
+,
+{"name":"restaurant de la poste","latitude":1.0900048,"longitude":45.010243}
+,
+{"name":"restaurant la tour galante","latitude":-0.6727501,"longitude":43.5509554}
+,
+{"name":"assiette du marché","latitude":3.0623348,"longitude":50.6412005}
+,
+{"name":"georgette","latitude":2.3299814,"longitude":48.847246}
+,
+{"name":"la table de la fontaine","latitude":5.527561,"longitude":45.126749}
+,
+{"name":"le grand jardin","latitude":5.6470976,"longitude":46.7090494}
+,
+{"name":"o pervenches","latitude":5.9305827,"longitude":45.5558058}
+,
+{"name":"restaurant le saint-julien","latitude":-0.7410017,"longitude":45.1656107}
+,
+{"name":"de balajan","latitude":3.7723368,"longitude":43.4773961}
+,
+{"name":"la cabane du fier","latitude":-1.484384,"longitude":46.201481}
+,
+{"name":"le bilboquet","latitude":6.1230525,"longitude":45.8975271}
+,
+{"name":"le bistrot a gilles","latitude":-1.5667533,"longitude":47.218793}
+,
+{"name":"le mas des oliviers","latitude":-1.6433597,"longitude":47.2313975}
+,
+{"name":"l'echo des montagnes","latitude":6.519945,"longitude":46.348412}
+,
+{"name":"la canopée","latitude":3.140443,"longitude":50.511447}
+,
+{"name":"l'homme tranquille","latitude":0.1919125,"longitude":47.9965143}
+,
+{"name":"restaurant de la poste","latitude":4.2910655,"longitude":45.1135317}
+,
+{"name":"groupe elégance hôtels","latitude":-1.3867781,"longitude":46.1787715}
+,
+{"name":"restaurant stephane martin","latitude":2.2897957,"longitude":48.8450622}
+,
+{"name":"auberge de savoie","latitude":6.1280038,"longitude":45.8988396}
+,
+{"name":"château de sully","latitude":-0.735662,"longitude":49.3029866}
+,
+{"name":"l'arcombelle","latitude":5.4889157,"longitude":48.0010157}
+,
+{"name":"le cheval noir","latitude":7.7549824,"longitude":48.6212436}
+,
+{"name":"le mas du langoustier","latitude":6.185872,"longitude":43.003804}
+,
+{"name":"l'entrecote","latitude":4.8357278,"longitude":45.7653675}
+,
+{"name":"cks lounge","latitude":4.8249619,"longitude":45.7461718}
+,
+{"name":"au cheval blanc","latitude":7.264972,"longitude":47.5356472}
+,
+{"name":"au clocher","latitude":2.1959537,"longitude":50.9456567}
+,
+{"name":"au coq blanc","latitude":7.7837784,"longitude":48.6034481}
+,
+{"name":"château de germigney","latitude":5.8238706,"longitude":46.9988989}
+,
+{"name":"dolcemare","latitude":8.9020077,"longitude":41.6758195}
+,
+{"name":"domaine de la tuilerie","latitude":-0.4986789,"longitude":46.298369}
+,
+{"name":"la tetrade cote port","latitude":-1.436093,"longitude":43.6500051}
+,
+{"name":"l'ambata","latitude":8.9020077,"longitude":41.6758195}
+,
+{"name":"le bengy","latitude":3.1429261,"longitude":47.0304026}
+,
+{"name":"le floreal","latitude":6.4946802,"longitude":48.5916658}
+,
+{"name":"le jarrousset","latitude":2.9114896,"longitude":45.1147043}
+,
+{"name":"le millesime","latitude":7.2836835,"longitude":43.7038359}
+,
+{"name":"le pave de sars","latitude":4.026381,"longitude":50.165455}
+,
+{"name":"le transat","latitude":-2.215699,"longitude":47.2688351}
+,
+{"name":"les brisants","latitude":-1.8713655,"longitude":46.6194761}
+,
+{"name":"les fuchsias","latitude":-1.2669479,"longitude":49.5868168}
+,
+{"name":"les jardins de st laurent","latitude":2.8021686,"longitude":50.2996027}
+,
+{"name":"l'ôtrement","latitude":6.3858232,"longitude":46.333199}
+,
+{"name":"au p'tit munster","latitude":7.1381125,"longitude":48.0410079}
+,
+{"name":"auberge de la tour","latitude":4.8229483,"longitude":50.1352002}
+,
+{"name":"auberge du bon laboureur","latitude":1.066414,"longitude":47.332212}
+,
+{"name":"bistrot de la gare","latitude":-0.8709683,"longitude":47.0655313}
+,
+{"name":"hotel bergeret sport","latitude":-1.7723517,"longitude":43.3712867}
+,
+{"name":"la couleuvrine","latitude":1.2182719,"longitude":44.8903721}
+,
+{"name":"la table du donjon","latitude":4.5821162,"longitude":45.9472468}
+,
+{"name":"l'acheda","latitude":9.169541,"longitude":41.406445}
+,
+{"name":"l'auberge du lac","latitude":4.64434,"longitude":45.301257}
+,
+{"name":"le bec au cauchois","latitude":0.4968286,"longitude":49.744702}
+,
+{"name":"le jardin","latitude":3.2500073,"longitude":45.5488846}
+,
+{"name":"le rabelais","latitude":4.0807085,"longitude":44.1233977}
+,
+{"name":"le saint germain","latitude":3.4150403,"longitude":43.4587548}
+,
+{"name":"les halles","latitude":3.511051,"longitude":43.2861988}
+,
+{"name":"les pitchouns","latitude":2.7327446,"longitude":47.9978469}
+,
+{"name":"auberge des 4 vents","latitude":6.1260781,"longitude":48.6945728}
+,
+{"name":"la cuillere a omble","latitude":6.2304398,"longitude":45.7842822}
+,
+{"name":"le millesimes","latitude":2.3022223,"longitude":48.8802502}
+,
+{"name":"les bergeries de palombaggia","latitude":9.2921339,"longitude":41.5592563}
+,
+{"name":"les fables de la fontaine","latitude":2.302418,"longitude":48.858298}
+,
+{"name":"les peupliers","latitude":6.4917383,"longitude":44.536574}
+,
+{"name":"villa mirasol","latitude":-0.5036088,"longitude":43.8911681}
+,
+{"name":"du jardin a l'assiette","latitude":4.8303794,"longitude":45.0390996}
+,
+{"name":"gandhi","latitude":6.6355135,"longitude":43.2715017}
+,
+{"name":"la cote et l'arete","latitude":3.1461586,"longitude":45.7585775}
+,
+{"name":"la griotte","latitude":6.198988,"longitude":47.1238894}
+,
+{"name":"l'archestrate","latitude":4.9496543,"longitude":48.6376749}
+,
+{"name":"le figuier de saint esprit","latitude":7.1287274,"longitude":43.5817544}
+,
+{"name":"les coquelicots","latitude":2.44083,"longitude":44.342937}
+,
+{"name":"l'o a la bouche","latitude":0.1657026,"longitude":44.496966}
+,
+{"name":"restaurant baud","latitude":6.3185069,"longitude":46.1687715}
+,
+{"name":"restaurant k'loys","latitude":-3.0448302,"longitude":48.7793384}
+,
+{"name":"restaurant le 32","latitude":4.9380411,"longitude":45.7791129}
+,
+{"name":"au boeuf auberge","latitude":7.9858554,"longitude":48.7992631}
+,
+{"name":"café de paris","latitude":-1.6214675,"longitude":49.6396084}
+,
+{"name":"le temps des saisons","latitude":5.0461639,"longitude":45.795644}
+,
+{"name":"les jardins de la cloche","latitude":5.0340547,"longitude":47.3242669}
+,
+{"name":"au fil des saison","latitude":-1.174433,"longitude":46.4665144}
+,
+{"name":"au vieux moulin","latitude":8.180166,"longitude":48.97641}
+,
+{"name":"balade des saveurs","latitude":5.0549249,"longitude":43.9197567}
+,
+{"name":"cap santa lucia","latitude":6.7804359,"longitude":43.414008}
+,
+{"name":"hôtel-restaurant régis et jacques marcon","latitude":4.433313,"longitude":45.1388699}
+,
+{"name":"la flambée","latitude":0.5050331,"longitude":44.8693648}
+,
+{"name":"la rose tremiere","latitude":-1.2502489,"longitude":46.3537621}
+,
+{"name":"l'aiglon","latitude":-2.964555,"longitude":48.070312}
+,
+{"name":"l'arome","latitude":5.3073241,"longitude":43.8236092}
+,
+{"name":"le clos saint roch","latitude":4.8030083,"longitude":43.7216152}
+,
+{"name":"le dauphin","latitude":0.2499028,"longitude":48.5423733}
+,
+{"name":"le ferriere","latitude":2.6694345,"longitude":48.7625154}
+,
+{"name":"le gaudi cafe","latitude":5.7230181,"longitude":45.1875798}
+,
+{"name":"le relais de la chevrette","latitude":6.6844601,"longitude":46.3597707}
+,
+{"name":"les canailles menilmontant","latitude":2.385281,"longitude":48.8666986}
+,
+{"name":"millésimes 62","latitude":2.3178891,"longitude":48.8370293}
+,
+{"name":"restaurant ","latitude":3.0738381,"longitude":44.6721433}
+,
+{"name":"restaurant cedric gola","latitude":6.2360738,"longitude":43.1381982}
+,
+{"name":"restaurant emilie et thomas","latitude":2.5757788,"longitude":44.3485242}
+,
+{"name":"restaurant le trevise","latitude":2.3034838,"longitude":48.7755063}
+,
+{"name":"sucre sale","latitude":-61.53368,"longitude":16.246414}
+,
+{"name":"tiger's house","latitude":5.018557,"longitude":43.6010909}
+,
+{"name":"clair de la plume","latitude":4.9070865,"longitude":44.4194237}
+,
+{"name":"la belle etoile","latitude":7.3114151,"longitude":43.7041335}
+,
+{"name":"la petille","latitude":1.787132,"longitude":49.15474}
+,
+{"name":"le bistrot gourmand","latitude":7.0113107,"longitude":43.5522566}
+,
+{"name":"le tire bouchon","latitude":4.8270442,"longitude":45.762911}
+,
+{"name":"le val moret","latitude":4.4326451,"longitude":48.1767955}
+,
+{"name":"abbaye de talloires","latitude":6.2111678,"longitude":45.8409804}
+,
+{"name":"au colombier","latitude":4.7259124,"longitude":45.9450031}
+,
+{"name":"auberge de la louvière","latitude":3.3595969,"longitude":49.3346388}
+,
+{"name":"bo bistrot","latitude":4.8878899,"longitude":43.9784962}
+,
+{"name":"hotel de la gare","latitude":4.8331864,"longitude":45.8507616}
+,
+{"name":"hotel de la plage","latitude":-3.129463,"longitude":47.520594}
+,
+{"name":"la causerie","latitude":-2.4310292,"longitude":47.2952403}
+,
+{"name":"la table du campagnard","latitude":5.671623,"longitude":44.8978821}
+,
+{"name":"la taverne de la marine","latitude":-1.6836698,"longitude":48.109602}
+,
+{"name":"l'atelier de nicolas","latitude":4.1912792,"longitude":43.5674424}
+,
+{"name":"l'auberge bressane","latitude":5.2348707,"longitude":46.1977642}
+,
+{"name":"le cohe","latitude":-0.6316322,"longitude":44.8065054}
+,
+{"name":"le relais du quercy","latitude":1.6728995,"longitude":45.0554496}
+,
+{"name":"le val joli","latitude":0.7969208,"longitude":47.4099786}
+,
+{"name":"le valentino","latitude":4.0730487,"longitude":48.2970961}
+,
+{"name":"le vieux gachet","latitude":-1.53043,"longitude":47.296788}
+,
+{"name":"les petits ventres","latitude":1.2578151,"longitude":45.8286875}
+,
+{"name":"les pieds dans l'eau","latitude":6.4416334,"longitude":46.3628088}
+,
+{"name":"resto bistro du'o","latitude":5.9589719,"longitude":45.8471578}
+,
+{"name":"terroir divin","latitude":7.2756915,"longitude":43.7016765}
+,
+{"name":"villa augusta","latitude":4.7664484,"longitude":44.3452483}
+,
+{"name":"auberge de tranheim","latitude":7.4666208,"longitude":48.594667}
+,
+{"name":"clos des sources","latitude":7.3021905,"longitude":48.23088}
+,
+{"name":"la toque rose","latitude":5.1294926,"longitude":46.33559}
+,
+{"name":"l'assiette champenoise","latitude":4.003809,"longitude":49.2476648}
+,
+{"name":"le coquelicot","latitude":7.1490774,"longitude":47.7414443}
+,
+{"name":"le mazerand","latitude":3.922467,"longitude":43.574039}
+,
+{"name":"relais de vincey","latitude":6.3206922,"longitude":48.349036}
+,
+{"name":"619","latitude":-61.2760198,"longitude":16.2573009}
+,
+{"name":"la cave","latitude":6.12658,"longitude":45.9011578}
+,
+{"name":"la playa","latitude":-61.2277408,"longitude":15.8854192}
+,
+{"name":"l'aquilon","latitude":1.0300005,"longitude":49.9149296}
+,
+{"name":"le bô m","latitude":6.7762324,"longitude":43.6024376}
+,
+{"name":"le parvis","latitude":4.8100693,"longitude":44.135134}
+,
+{"name":"le vauban","latitude":1.7594888,"longitude":50.4606528}
+,
+{"name":"auberge des saints-pères","latitude":2.4895598,"longitude":48.9200369}
+,
+{"name":"aux trois rois","latitude":7.0495833,"longitude":47.8596108}
+,
+{"name":"du coté de chez fred","latitude":3.7008219,"longitude":43.4078758}
+,
+{"name":"la bonne auberge","latitude":-2.002074,"longitude":47.061647}
+,
+{"name":"la ferme des trois capucines","latitude":6.911837,"longitude":45.472774}
+,
+{"name":"la forge","latitude":7.1858876,"longitude":43.7924301}
+,
+{"name":"l'âne rouge","latitude":7.2865686,"longitude":43.6981496}
+,
+{"name":"l'arome","latitude":-1.2551698,"longitude":47.0639906}
+,
+{"name":"le bistronome","latitude":-1.3322426,"longitude":47.0023542}
+,
+{"name":"le chamarlenc","latitude":3.8827093,"longitude":45.0443765}
+,
+{"name":"le florimond","latitude":2.3080767,"longitude":48.8556963}
+,
+{"name":"le petit meunier","latitude":4.6743139,"longitude":45.6847445}
+,
+{"name":"le pré d'antoine","latitude":6.354201,"longitude":46.16271}
+,
+{"name":"le quart de cercle","latitude":6.092232,"longitude":45.9170659}
+,
+{"name":"le sens six","latitude":3.8499237,"longitude":43.6106379}
+,
+{"name":"l'entree jardin","latitude":-0.3228413,"longitude":44.6362634}
+,
+{"name":"restaurant cyril attrazic","latitude":3.2876552,"longitude":44.7171968}
+,
+{"name":"restaurant de l'ain","latitude":5.6982967,"longitude":46.5855744}
+,
+{"name":"restaurant le domaine de rochevilaine","latitude":-2.501294,"longitude":47.513966}
+,
+{"name":"restaurant piano","latitude":5.3843135,"longitude":43.2819398}
+,
+{"name":"rest'authentique","latitude":1.1670093,"longitude":49.5109352}
+,
+{"name":"ttotta","latitude":-1.6311274,"longitude":43.3549537}
+,
+{"name":"auberge du parc","latitude":1.143,"longitude":45.2596}
+,
+{"name":"auberge refuge du neuweiher","latitude":6.92855,"longitude":47.822261}
+,
+{"name":"bon thé bonheur","latitude":0.1015327,"longitude":49.3438989}
+,
+{"name":"chalet la source","latitude":6.502076,"longitude":45.810016}
+,
+{"name":"chez huguette","latitude":9.4503759,"longitude":42.6965447}
+,
+{"name":"couleurs saveurs","latitude":-1.5231419,"longitude":48.9271204}
+,
+{"name":"fleur de sel","latitude":-0.0772271,"longitude":47.6995139}
+,
+{"name":"hotel la santa","latitude":8.9302111,"longitude":42.6043484}
+,
+{"name":"hôtel-restaurant la tour","latitude":4.339713,"longitude":45.214529}
+,
+{"name":"la cotriade","latitude":-3.4852648,"longitude":48.8316475}
+,
+{"name":"la croix verte","latitude":-1.6796972,"longitude":47.8437515}
+,
+{"name":"la mangeoire hotel mercure","latitude":0.3218297,"longitude":42.8199152}
+,
+{"name":"la palette","latitude":7.3031628,"longitude":48.0602184}
+,
+{"name":"la petite auberge","latitude":7.2473356,"longitude":47.9182351}
+,
+{"name":"la table des bauges","latitude":5.9311446,"longitude":45.7572279}
+,
+{"name":"la vague de saint paul","latitude":7.102636,"longitude":43.7027297}
+,
+{"name":"l'atelier du parc","latitude":2.2910339,"longitude":48.8318358}
+,
+{"name":"le boute en train","latitude":-1.1488613,"longitude":46.1625513}
+,
+{"name":"le duguay trouin","latitude":-2.4273816,"longitude":47.2760804}
+,
+{"name":"le grand saint benoit","latitude":2.306171,"longitude":47.8107355}
+,
+{"name":"le moulin de la pipe","latitude":5.2371087,"longitude":44.8708328}
+,
+{"name":"le pont bleu","latitude":-1.5654225,"longitude":48.7885761}
+,
+{"name":"le potager du mas","latitude":5.0100351,"longitude":43.780016}
+,
+{"name":"le vivarais","latitude":4.8331089,"longitude":45.7536751}
+,
+{"name":"les melezes","latitude":6.1234969,"longitude":45.0048788}
+,
+{"name":"l'hostellerie d'acquigny","latitude":1.1754366,"longitude":49.1718474}
+,
+{"name":"l'impérial","latitude":2.119886,"longitude":43.783633}
+,
+{"name":"l'insolite","latitude":-0.3597425,"longitude":49.1857076}
+,
+{"name":"l'olive verte","latitude":1.779392,"longitude":49.2754115}
+,
+{"name":"plage ondine","latitude":7.0302003,"longitude":43.5477674}
+,
+{"name":"restaurant archambeau","latitude":1.117355,"longitude":45.0228317}
+,
+{"name":"ristorante vaudagna","latitude":6.9251274,"longitude":43.5976058}
+,
+{"name":"au lard et au cochon","latitude":2.352731,"longitude":43.2128606}
+,
+{"name":"auberge de baudemont","latitude":4.2850372,"longitude":46.2874881}
+,
+{"name":"diego plage l'ecailler","latitude":-1.166554,"longitude":44.663279}
+,
+{"name":"h.r du nord","latitude":6.346988,"longitude":45.279613}
+,
+{"name":"la table d'a.s","latitude":-0.7498773,"longitude":46.1059545}
+,
+{"name":"le carré d'alethius","latitude":4.8332183,"longitude":44.8614998}
+,
+{"name":"le relais des puys","latitude":3.0217432,"longitude":45.7798087}
+,
+{"name":"le resto du coin","latitude":7.754807,"longitude":48.568396}
+,
+{"name":"le riche by sébastien rath","latitude":4.0840426,"longitude":44.127499}
+,
+{"name":"les cedres du liban","latitude":2.3203735,"longitude":48.8445215}
+,
+{"name":"les cuisines du château","latitude":5.199958,"longitude":43.910812}
+,
+{"name":"les enfants gat'thés","latitude":-2.1294781,"longitude":47.7625723}
+,
+{"name":"restaurant bois joly","latitude":6.0041356,"longitude":46.2798325}
+,
+{"name":"restaurant chilhar","latitude":-1.4493267,"longitude":43.3407191}
+,
+{"name":"chez rosemonde","latitude":-1.7962931,"longitude":46.4954232}
+,
+{"name":"domaine de cicé blossac","latitude":-1.7644138,"longitude":48.0334629}
+,
+{"name":"chez planes","latitude":2.0391246,"longitude":42.4593437}
+,
+{"name":"l'ambassade des terroirs","latitude":2.2986789,"longitude":48.9334021}
+,
+{"name":"l'auberge de la tante arie","latitude":6.8525143,"longitude":47.3853421}
+,
+{"name":"le bouche à oreille","latitude":6.1809873,"longitude":48.6907168}
+,
+{"name":"le bouche b","latitude":4.8316742,"longitude":45.7347025}
+,
+{"name":"le jas du mas","latitude":3.881498,"longitude":45.575458}
+,
+{"name":"le mesclun","latitude":5.023122,"longitude":44.2058187}
+,
+{"name":"le toane","latitude":4.6925343,"longitude":45.7480129}
+,
+{"name":"la table de louis","latitude":6.6756298,"longitude":43.4183906}
+,
+{"name":"l'etape","latitude":3.1029955,"longitude":45.0335018}
+,
+{"name":"restaurant au pont de l'ill","latitude":7.8315574,"longitude":48.6551569}
+,
+{"name":"restaurant de la place","latitude":-0.5186078,"longitude":45.9443359}
+,
+{"name":"restaurant des gorges du verdon","latitude":6.344805,"longitude":43.775376}
+,
+{"name":"victoire et thomas","latitude":4.8373988,"longitude":45.7668257}
+,
+{"name":"auberge de st remy - restaurant fanny rey","latitude":4.833402,"longitude":43.788651}
+,
+{"name":"auberge de vienne","latitude":2.1348932,"longitude":47.8006562}
+,
+{"name":"auberge des matfeux ","latitude":0.1757008,"longitude":47.9131457}
+,
+{"name":"auberge des vieux chenes","latitude":1.5634457,"longitude":45.1593639}
+,
+{"name":"costa d'amalfi","latitude":2.3234792,"longitude":48.8592259}
+,
+{"name":"evi evane","latitude":2.33428,"longitude":48.8518946}
+,
+{"name":"grand hotel du parc","latitude":3.592541,"longitude":44.3257899}
+,
+{"name":"jardin gourmand","latitude":3.567106,"longitude":47.7997667}
+,
+{"name":"la voute","latitude":6.5323527,"longitude":45.4835418}
+,
+{"name":"l'auberge de la cascade","latitude":3.384074,"longitude":44.3360399}
+,
+{"name":"le manege restaurant","latitude":2.0953914,"longitude":48.8953492}
+,
+{"name":"le relais délys","latitude":3.5910931,"longitude":45.887876}
+,
+{"name":"le relais du coche","latitude":5.0299941,"longitude":43.6936371}
+,
+{"name":"le relais vosgien","latitude":6.576665,"longitude":48.4368217}
+,
+{"name":"le val d'amby","latitude":5.2922596,"longitude":45.7971932}
+,
+{"name":"leonard de vinci","latitude":0.6823704,"longitude":47.3942802}
+,
+{"name":"les caudalies","latitude":-1.5955839,"longitude":47.2420532}
+,
+{"name":"les cygnes chez jules","latitude":6.4029066,"longitude":46.3502035}
+,
+{"name":"a l'étoile","latitude":7.6292754,"longitude":48.71032}
+,
+{"name":"au cul de poule","latitude":4.0478587,"longitude":49.257807}
+,
+{"name":"baya hotel et spa","latitude":-1.4457589,"longitude":43.6492567}
+,
+{"name":"hotel u capu biancu","latitude":9.202944,"longitude":41.417434}
+,
+{"name":"la closerie","latitude":5.0379963,"longitude":47.3183663}
+,
+{"name":"la feria","latitude":-1.0912376,"longitude":44.6151915}
+,
+{"name":"le calgary","latitude":6.536424,"longitude":45.7590533}
+,
+{"name":"le grand monarque","latitude":3.1260583,"longitude":47.3696108}
+,
+{"name":"le retro","latitude":5.9440746,"longitude":48.2005595}
+,
+{"name":"les archives","latitude":0.3397031,"longitude":46.5829308}
+,
+{"name":"les sarments","latitude":4.0445684,"longitude":49.2684881}
+,
+{"name":"l'oree des chenes","latitude":1.9615924,"longitude":47.7335552}
+,
+{"name":"piqu'boeuf grill","latitude":4.8456599,"longitude":47.0197042}
+,
+{"name":"restaurant aux 3 roses","latitude":7.4656409,"longitude":48.3591432}
+,
+{"name":"auberge de la ferme guichard","latitude":5.625464,"longitude":45.96924}
+,
+{"name":"auberge du moulin","latitude":4.9522514,"longitude":45.2911313}
+,
+{"name":"bistrot colette","latitude":5.2757617,"longitude":45.5899326}
+,
+{"name":"chantefable","latitude":2.3995161,"longitude":48.8665154}
+,
+{"name":"chez bastien","latitude":-2.0675316,"longitude":46.7828031}
+,
+{"name":"club des palmiers","latitude":6.6627833,"longitude":43.2386937}
+,
+{"name":"hostellerie saint martin","latitude":-0.5382814,"longitude":49.2858589}
+,
+{"name":"hotel victor hugo","latitude":1.8936067,"longitude":44.8580372}
+,
+{"name":"la maison","latitude":-0.3257472,"longitude":45.6929415}
+,
+{"name":"la maison dans le parc","latitude":6.1853277,"longitude":48.6942377}
+,
+{"name":"la table","latitude":6.3043882,"longitude":43.5890268}
+,
+{"name":"label braise","latitude":1.1000187,"longitude":43.6197474}
+,
+{"name":"le bistrot du port","latitude":7.075348,"longitude":43.5662927}
+,
+{"name":"le bretagne maison lorin","latitude":-1.5019398,"longitude":47.439896}
+,
+{"name":"le château de cocove","latitude":2.0638971,"longitude":50.8329734}
+,
+{"name":"le château des iles","latitude":2.5221357,"longitude":48.7981202}
+,
+{"name":"le dit vin","latitude":6.7218468,"longitude":43.3836031}
+,
+{"name":"le mabouya dans la bouteille","latitude":-61.269711,"longitude":16.251047}
+,
+{"name":"le montauban","latitude":1.5330229,"longitude":45.1562391}
+,
+{"name":"le relais des saveurs","latitude":7.4887491,"longitude":48.6209004}
+,
+{"name":"l'épicurien","latitude":6.1830571,"longitude":49.1146386}
+,
+{"name":"les cocottes noires","latitude":-1.4983006,"longitude":47.960128}
+,
+{"name":"les grillons","latitude":6.2247802,"longitude":45.825272}
+,
+{"name":"paule et kopa","latitude":5.3720467,"longitude":43.2922211}
+,
+{"name":"hôtel restaurant de la poste","latitude":3.670932,"longitude":44.630785}
+,
+{"name":"a la table de nicolas","latitude":4.8306292,"longitude":43.7877596}
+,
+{"name":"au fil des saisons","latitude":-0.085313,"longitude":49.1210336}
+,
+{"name":"au garde manger","latitude":-0.165807,"longitude":47.689976}
+,
+{"name":"auberge de breca","latitude":-2.3147479,"longitude":47.3615149}
+,
+{"name":"auberge du centre","latitude":1.3707859,"longitude":47.4968985}
+,
+{"name":"château de fines roches","latitude":4.849011,"longitude":44.050298}
+,
+{"name":"delicatessens","latitude":1.3502557,"longitude":44.7556473}
+,
+{"name":"la baratte","latitude":3.1298498,"longitude":50.7256839}
+,
+{"name":"la villa","latitude":4.0318012,"longitude":49.2592789}
+,
+{"name":"l'auberge des tilleuls","latitude":-1.3802077,"longitude":48.0346469}
+,
+{"name":"l'aygo","latitude":-0.3555021,"longitude":43.2870768}
+,
+{"name":"le bistrot d'henry","latitude":-1.90426,"longitude":48.6378272}
+,
+{"name":"le cheval rouge","latitude":4.8970905,"longitude":49.0924337}
+,
+{"name":"le clos du roy","latitude":-0.1558988,"longitude":44.89222}
+,
+{"name":"le point du jour","latitude":-1.4303148,"longitude":46.6777395}
+,
+{"name":"le pre de la cure","latitude":6.3275349,"longitude":46.3691115}
+,
+{"name":"le relais","latitude":5.0237749,"longitude":45.2548855}
+,
+{"name":"le relais de sillery","latitude":4.1443278,"longitude":49.2032738}
+,
+{"name":"le royal jussieu","latitude":2.3524209,"longitude":48.8474205}
+,
+{"name":"le veau d'or - maison marsollier","latitude":-0.697157,"longitude":47.824906}
+,
+{"name":"l'écume","latitude":-1.2061907,"longitude":45.8396262}
+,
+{"name":"les embruns","latitude":-1.3676583,"longitude":46.2055113}
+,
+{"name":"les embruns","latitude":-1.1496407,"longitude":44.6575624}
+,
+{"name":"les étangs de guibert","latitude":0.2579641,"longitude":48.3823355}
+,
+{"name":"les muriers","latitude":6.7173936,"longitude":43.3577677}
+,
+{"name":"l'xtreme comptoir","latitude":5.1404979,"longitude":45.5022809}
+,
+{"name":"restaurant l'abbaye","latitude":3.9418844,"longitude":49.0821999}
+,
+{"name":"au bois le sire","latitude":7.1654141,"longitude":48.1266523}
+,
+{"name":"aux trois maries","latitude":4.8285235,"longitude":45.7628256}
+,
+{"name":"comptoir joa - casino des pins","latitude":-1.7584956,"longitude":46.4859908}
+,
+{"name":"grains de sel","latitude":7.7914809,"longitude":48.815973}
+,
+{"name":"hotel du lac - restaurant le cocon","latitude":4.9291213,"longitude":45.7155284}
+,
+{"name":"la garaudiere","latitude":4.8734086,"longitude":46.9961686}
+,
+{"name":"la grillandine","latitude":-2.2143138,"longitude":47.271852}
+,
+{"name":"la merise","latitude":7.722427,"longitude":48.879985}
+,
+{"name":"la siesta","latitude":-1.0305236,"longitude":45.6210179}
+,
+{"name":"le cantermerle","latitude":7.1201575,"longitude":43.7153344}
+,
+{"name":"le moulin des ecrevisses","latitude":2.333188,"longitude":49.8181327}
+,
+{"name":"les 3 lieux","latitude":-0.5273702,"longitude":47.4233634}
+,
+{"name":"restaurant skab","latitude":4.3577639,"longitude":43.8320026}
+,
+{"name":"sas bellevue","latitude":0.1299715,"longitude":49.4018912}
+,
+{"name":"a l'ardoise","latitude":-1.0934277,"longitude":48.5764693}
+,
+{"name":"au père lapin","latitude":2.2183628,"longitude":48.8705592}
+,
+{"name":"blend bistro pub","latitude":1.906364,"longitude":47.899718}
+,
+{"name":"cazes arazat","latitude":2.8235943,"longitude":44.3815618}
+,
+{"name":"chez françoise","latitude":2.3138127,"longitude":48.8593608}
+,
+{"name":"chez le pèr'gras","latitude":5.7296998,"longitude":45.2021658}
+,
+{"name":"la fontaine","latitude":3.4212179,"longitude":46.1682129}
+,
+{"name":"la treille","latitude":1.2228593,"longitude":44.8276077}
+,
+{"name":"le cheverny","latitude":1.2572573,"longitude":45.8243765}
+,
+{"name":"le grenadin","latitude":3.3343819,"longitude":49.3667429}
+,
+{"name":"le phare","latitude":-1.6079882,"longitude":48.8346907}
+,
+{"name":"le reciproque","latitude":2.3461324,"longitude":48.8916214}
+,
+{"name":"le regence","latitude":5.4911605,"longitude":45.3999391}
+,
+{"name":"le rouget noir","latitude":3.2852221,"longitude":49.8471431}
+,
+{"name":"le saint honore","latitude":0.8058753,"longitude":47.3602588}
+,
+{"name":"loiseau rive gauche","latitude":2.3183161,"longitude":48.8599589}
+,
+{"name":"la table d'émeraude","latitude":2.3122717,"longitude":48.8946754}
+,
+{"name":"restaurant de la cosmetique","latitude":5.3706462,"longitude":43.343225}
+,
+{"name":"restaurant xoko goxoa","latitude":-1.220399,"longitude":43.134989}
+,
+{"name":"a table","latitude":7.4635105,"longitude":48.3558939}
+,
+{"name":"bar du boucher","latitude":-0.5725528,"longitude":44.8405939}
+,
+{"name":"en catimini","latitude":2.7265482,"longitude":43.1476684}
+,
+{"name":"hotel restaurant du pont d'abense","latitude":-0.8644854,"longitude":43.1099958}
+,
+{"name":"l'auberge du cedre","latitude":3.8740591,"longitude":43.8321621}
+,
+{"name":"le boeuf d'argent","latitude":4.8270474,"longitude":45.7627677}
+,
+{"name":"les jardins du leman","latitude":6.326342,"longitude":46.370055}
+,
+{"name":"restaurant lotre","latitude":5.4078277,"longitude":43.5351045}
+,
+{"name":"restaurant souply","latitude":4.3590398,"longitude":48.9613904}
+,
+{"name":"au 52","latitude":3.1462895,"longitude":50.673881}
+,
+{"name":"la meuniere","latitude":4.8352191,"longitude":45.7652781}
+,
+{"name":"l'artimon","latitude":3.921411,"longitude":43.5312801}
+,
+{"name":"le pareloup","latitude":2.2893001,"longitude":48.8507996}
+,
+{"name":"chez jo","latitude":55.5889108,"longitude":-21.3732412}
+,
+{"name":"don camilo","latitude":2.332089,"longitude":48.8569904}
+,
+{"name":"la brasserie des monts d'or","latitude":4.8184162,"longitude":45.8142725}
+,
+{"name":"la garenne","latitude":1.43473,"longitude":44.49696}
+,
+{"name":"la table du boisniard","latitude":-0.9583338,"longitude":46.9277416}
+,
+{"name":"la tramontana","latitude":3.0385587,"longitude":50.6243071}
+,
+{"name":"le bistrot gourmand","latitude":6.45118,"longitude":48.1736472}
+,
+{"name":"le jardin du quai","latitude":5.048139,"longitude":43.917668}
+,
+{"name":"le petit saint thomas","latitude":-1.833655,"longitude":46.889493}
+,
+{"name":"le tourdion","latitude":4.0731855,"longitude":46.0365115}
+,
+{"name":"l'intemporel","latitude":4.7504656,"longitude":44.3065047}
+,
+{"name":"ô de mer","latitude":-1.5163757,"longitude":46.2079313}
+,
+{"name":"relais chantovent","latitude":2.7469281,"longitude":43.3541623}
+,
+{"name":"relais de farrou","latitude":2.042428,"longitude":44.385566}
+,
+{"name":"restaurant 33 cite","latitude":4.8559584,"longitude":45.7853887}
+,
+{"name":"cafe brunet","latitude":6.1422904,"longitude":45.9197307}
+,
+{"name":"hotel restaurant chartron","latitude":4.9833667,"longitude":45.1237547}
+,
+{"name":"la table de l'hostellerie","latitude":4.3228205,"longitude":47.492507}
+,
+{"name":"le bonaparte","latitude":2.333478,"longitude":48.8546384}
+,
+{"name":"l'entrecote","latitude":-0.5741868,"longitude":44.8432677}
+,
+{"name":"les amis du lac","latitude":7.4898313,"longitude":49.0859064}
+,
+{"name":"restaurant du parc","latitude":7.4715091,"longitude":48.462314}
+,
+{"name":"restaurant le parc","latitude":7.3651503,"longitude":48.2320901}
+,
+{"name":"au caveau de l'étable","latitude":7.6458697,"longitude":48.9503421}
+,
+{"name":"auberge du cochon d'or","latitude":0.3406747,"longitude":49.3459422}
+,
+{"name":"brasserie jules","latitude":2.3090994,"longitude":49.8915759}
+,
+{"name":"entre vigne & garrigue","latitude":4.7773092,"longitude":43.9902629}
+,
+{"name":"la chartreuse du val saint esprit","latitude":2.5918108,"longitude":50.5080812}
+,
+{"name":"la toque d'or","latitude":7.0126963,"longitude":43.5528069}
+,
+{"name":"la vigneraie","latitude":4.026826,"longitude":49.2539699}
+,
+{"name":"l'auberge bretonne","latitude":-1.3784319,"longitude":47.7179439}
+,
+{"name":"l'auberge des ris","latitude":2.6188415,"longitude":46.5538012}
+,
+{"name":"le bouchon sully","latitude":4.8438292,"longitude":45.7705703}
+,
+{"name":"le coq de la place","latitude":2.5730761,"longitude":44.3506621}
+,
+{"name":"le pavillon de bailly","latitude":2.0866699,"longitude":48.8385631}
+,
+{"name":"le p'tit roseau","latitude":3.252234,"longitude":45.5439483}
+,
+{"name":"le savoyard","latitude":5.9211864,"longitude":45.5631963}
+,
+{"name":"leonie - bistro et grillades","latitude":3.1833798,"longitude":43.9848342}
+,
+{"name":"les cloyeres","latitude":5.8756686,"longitude":45.2654551}
+,
+{"name":"les colonnes","latitude":6.1452792,"longitude":48.650324}
+,
+{"name":"nonna giulia","latitude":6.247369,"longitude":48.70497}
+,
+{"name":"o grain de sel","latitude":-0.9974924,"longitude":45.6023011}
+,
+{"name":"parfum poivre","latitude":-1.5962683,"longitude":48.8372023}
+,
+{"name":"restaurant chevalier","latitude":4.3941322,"longitude":45.432387}
+,
+{"name":"restaurant le bel ami","latitude":2.1323206,"longitude":48.8943147}
+,
+{"name":"restaurant lesage","latitude":-2.7683961,"longitude":47.5270737}
+,
+{"name":"a la table du bon roi stanislas","latitude":6.1809633,"longitude":48.6937224}
+,
+{"name":"brasserie des halles","latitude":0.1036045,"longitude":49.4902971}
+,
+{"name":"le boeuf rouge","latitude":0.902282,"longitude":45.889822}
+,
+{"name":"le cabinet vert","latitude":1.93558,"longitude":47.9011232}
+,
+{"name":"maximin hellio","latitude":0.0768929,"longitude":49.359094}
+,
+{"name":"restaurant les cerisiers - hotel amelie","latitude":6.5705265,"longitude":45.450935}
+,
+{"name":"auberge des moissons","latitude":4.2443095,"longitude":48.9917732}
+,
+{"name":"hostellerie de fontanges","latitude":2.5625184,"longitude":44.3985215}
+,
+{"name":"hotel restaurant remotel","latitude":6.0404568,"longitude":49.3403916}
+,
+{"name":"la loco","latitude":4.3986042,"longitude":45.4423649}
+,
+{"name":"la mangeoire","latitude":3.0813188,"longitude":44.0992002}
+,
+{"name":"la solognote","latitude":2.2562354,"longitude":47.5645659}
+,
+{"name":"le cantarel","latitude":5.2983237,"longitude":48.2441361}
+,
+{"name":"le christiania","latitude":6.7291138,"longitude":45.8175345}
+,
+{"name":"le quai est","latitude":-0.462125,"longitude":49.332673}
+,
+{"name":"le saint m","latitude":4.8094232,"longitude":43.6379707}
+,
+{"name":"les arcades","latitude":6.5406403,"longitude":45.756846}
+,
+{"name":"restaurant di qui e di la","latitude":5.626462,"longitude":43.292791}
+,
+{"name":"studio 16","latitude":1.9043612,"longitude":47.9028953}
+,
+{"name":"la mariniere","latitude":-52.2736252,"longitude":4.8957227}
+,
+{"name":"la table des baous","latitude":7.1427055,"longitude":43.7476202}
+,
+{"name":"le fer a cheval","latitude":3.1551543,"longitude":50.6718462}
+,
+{"name":"le grignot","latitude":0.1057106,"longitude":49.4909557}
+,
+{"name":"le patio","latitude":0.9834223,"longitude":47.4121695}
+,
+{"name":"restaurant de la mer","latitude":-1.5982238,"longitude":49.1670058}
+,
+{"name":"restaurant grange","latitude":6.358592,"longitude":45.307111}
+,
+{"name":"restaurant le belem","latitude":-2.1647829,"longitude":47.1645921}
+,
+{"name":"auberge de vezon","latitude":6.0945113,"longitude":49.0066378}
+,
+{"name":"bistrot de charenton","latitude":2.4085589,"longitude":48.8246406}
+,
+{"name":"la foret","latitude":1.0318539,"longitude":48.5611358}
+,
+{"name":"le clos des sens","latitude":6.1460852,"longitude":45.9163461}
+,
+{"name":"le sloop","latitude":-1.7715983,"longitude":46.4901286}
+,
+{"name":"l'embellie","latitude":4.6207502,"longitude":46.3891501}
+,
+{"name":"restaurant collin","latitude":7.3142484,"longitude":47.4942322}
+,
+{"name":"cajarc blue hotel","latitude":1.8486858,"longitude":44.4855283}
+,
+{"name":"jour de marche","latitude":4.8421919,"longitude":45.766724}
+,
+{"name":"la flamiche","latitude":2.7989184,"longitude":49.6970639}
+,
+{"name":"la petite auberge","latitude":7.3307294,"longitude":48.4027297}
+,
+{"name":"la pignato","latitude":6.3706857,"longitude":43.138581}
+,
+{"name":"la toque blanche","latitude":6.761211,"longitude":48.9047497}
+,
+{"name":"l'ambroisie","latitude":4.8290198,"longitude":46.2979697}
+,
+{"name":"l'auberge de cassagne","latitude":4.8743616,"longitude":43.9608061}
+,
+{"name":"le bistroquet","latitude":5.4851767,"longitude":44.6943894}
+,
+{"name":"le bouche à oreille","latitude":-0.1145757,"longitude":49.2884037}
+,
+{"name":"le cottage du lac","latitude":-0.5921876,"longitude":44.8870482}
+,
+{"name":"le coup de fourchette","latitude":-4.4871821,"longitude":48.3880657}
+,
+{"name":"les trois maures","latitude":4.5730633,"longitude":46.8688947}
+,
+{"name":"manoir de moëllien","latitude":-4.2334153,"longitude":48.1119793}
+,
+{"name":"vincent croizard","latitude":4.3529384,"longitude":43.8372004}
+,
+{"name":"auberge du schantzwasen","latitude":7.0585631,"longitude":48.078525}
+,
+{"name":"la commanderie de champarey","latitude":5.2929623,"longitude":45.587102}
+,
+{"name":"la source de peyssou","latitude":0.844873,"longitude":44.779736}
+,
+{"name":"le parc","latitude":2.3637252,"longitude":43.2035174}
+,
+{"name":"restaurant la table alsacienne","latitude":6.8651571,"longitude":49.1152372}
+,
+{"name":"totum - cantine bio","latitude":-1.5560378,"longitude":47.2122871}
+,
+{"name":"au cerf d'or","latitude":7.7492801,"longitude":48.5775509}
+,
+{"name":"creperie la fregate","latitude":-4.1793396,"longitude":48.2946054}
+,
+{"name":"galia par maxim godigna","latitude":2.314692,"longitude":48.8273171}
+,
+{"name":"la bastide des magnans","latitude":6.430986,"longitude":43.4240617}
+,
+{"name":"le grand bec","latitude":6.7163407,"longitude":45.3829994}
+,
+{"name":"le jardin de pamplemousse","latitude":-61.5657953,"longitude":16.2398391}
+,
+{"name":"le rempart","latitude":4.9079549,"longitude":46.5646203}
+,
+{"name":"le sablier du temps","latitude":1.9373702,"longitude":45.0945649}
+,
+{"name":"le tropicana","latitude":0.618905,"longitude":45.026236}
+,
+{"name":"les gourmandises","latitude":6.4341651,"longitude":48.1728545}
+,
+{"name":"restaurant koifhus","latitude":7.3597168,"longitude":48.0759823}
+,
+{"name":"auberge bienvenue","latitude":-0.296816,"longitude":47.1915307}
+,
+{"name":"bratschtall manala","latitude":7.2597602,"longitude":48.1399825}
+,
+{"name":"hotel-restaurant les 3 barbus","latitude":3.9805563,"longitude":44.0816353}
+,
+{"name":"la cuisine au beurre","latitude":0.343864,"longitude":46.5828633}
+,
+{"name":"la maison forestiere","latitude":4.167712,"longitude":44.914211}
+,
+{"name":"l'alezan","latitude":0.0899471,"longitude":48.4217576}
+,
+{"name":"le goyen","latitude":-4.5370829,"longitude":48.0206221}
+,
+{"name":"le pampre","latitude":6.1737276,"longitude":49.1204714}
+,
+{"name":"le refuge","latitude":6.565838,"longitude":45.394131}
+,
+{"name":"la bonne auberge","latitude":6.2207969,"longitude":43.8444868}
+,
+{"name":"la cantine du curé","latitude":-1.5540007,"longitude":47.2153656}
+,
+{"name":"la ferme des charrieres","latitude":5.8051788,"longitude":45.1449648}
+,
+{"name":"la folie douce- restaurant la fruitiere","latitude":6.5844553,"longitude":45.2982414}
+,
+{"name":"la pourpre et les oliviers","latitude":3.5531602,"longitude":43.7036646}
+,
+{"name":"l'air du temps","latitude":1.6967363,"longitude":49.293578}
+,
+{"name":"l'ardoise du marche","latitude":2.874548,"longitude":47.424068}
+,
+{"name":"le manoir des impressionnistes","latitude":0.216325,"longitude":49.424121}
+,
+{"name":"le petit pontoise","latitude":2.3521456,"longitude":48.8498651}
+,
+{"name":"l'embrun","latitude":0.3843516,"longitude":43.1152228}
+,
+{"name":"l'emulsion","latitude":4.962345,"longitude":45.7413187}
+,
+{"name":"l'entrecote","latitude":3.8813007,"longitude":43.60662}
+,
+{"name":"les enfants terribles","latitude":3.2808496,"longitude":43.3158182}
+,
+{"name":"restaurant entre-roches","latitude":6.4787928,"longitude":47.0031741}
+,
+{"name":"velleda","latitude":7.1470028,"longitude":48.5076683}
+,
+{"name":"auberge du mail ","latitude":0.8387689,"longitude":47.2678793}
+,
+{"name":"hostellerie des ducs","latitude":0.1833852,"longitude":44.6773548}
+,
+{"name":"le cap","latitude":-1.7903884,"longitude":49.372643}
+,
+{"name":"le chalet","latitude":-1.1845888,"longitude":47.5224208}
+,
+{"name":"le lucullus","latitude":0.8698517,"longitude":46.42367}
+,
+{"name":"le manoir des portes","latitude":-2.4757053,"longitude":48.475768}
+,
+{"name":"le petit kembs","latitude":7.5038186,"longitude":47.6867583}
+,
+{"name":"le quatrieme mur","latitude":-0.5746707,"longitude":44.8426951}
+,
+{"name":"l'élan 9","latitude":2.349043,"longitude":48.8778272}
+,
+{"name":"l'escargot","latitude":3.5212549,"longitude":50.3558845}
+,
+{"name":"l'illustre","latitude":4.0735024,"longitude":48.2968974}
+,
+{"name":"restaurant origines","latitude":7.2740949,"longitude":43.701463}
+,
+{"name":"restaurant vidal","latitude":4.0622282,"longitude":45.0329271}
+,
+{"name":"château des tourelles","latitude":-2.3391758,"longitude":47.2556894}
+,
+{"name":"la table du gourmet","latitude":7.2968234,"longitude":48.1657129}
+,
+{"name":"la vallee","latitude":-2.048965,"longitude":48.636349}
+,
+{"name":"la vieille tour","latitude":7.4533744,"longitude":48.2597015}
+,
+{"name":"le petit comptoir","latitude":6.4901668,"longitude":48.5958731}
+,
+{"name":"le safari","latitude":7.2758234,"longitude":43.6957885}
+,
+{"name":"lou caleou ","latitude":4.0876828,"longitude":43.7816783}
+,
+{"name":"restaurant au menil","latitude":2.3449352,"longitude":48.683383}
+,
+{"name":"restaurant d'izoard","latitude":6.721468,"longitude":44.868833}
+,
+{"name":"villa cyriel","latitude":7.3257981,"longitude":43.8022767}
+,
+{"name":"la caverne","latitude":5.8866005,"longitude":43.7581918}
+,
+{"name":"la potiniere du palais","latitude":7.0178311,"longitude":43.5517954}
+,
+{"name":"la table d'auré","latitude":6.206702,"longitude":45.557253}
+,
+{"name":"l'auberge fleurie","latitude":6.7680528,"longitude":47.3263717}
+,
+{"name":"le bergerac","latitude":1.4927694,"longitude":48.3969028}
+,
+{"name":"le chene vert","latitude":3.2915889,"longitude":46.3083403}
+,
+{"name":"le cintra","latitude":6.6177823,"longitude":45.8571009}
+,
+{"name":"le jardin","latitude":4.0324403,"longitude":49.4324528}
+,
+{"name":"le mabrouk","latitude":6.9373122,"longitude":43.5453983}
+,
+{"name":"le moderne","latitude":4.7488722,"longitude":44.5608602}
+,
+{"name":"le petit gourmand","latitude":0.0713007,"longitude":43.2379399}
+,
+{"name":"le trefle","latitude":1.4166603,"longitude":43.5442957}
+,
+{"name":"les relais d'alsace","latitude":-1.2108806,"longitude":48.1227494}
+,
+{"name":"l'escampette","latitude":3.331129,"longitude":43.534303}
+,
+{"name":"orchidea","latitude":-61.283115,"longitude":16.2542635}
+,
+{"name":"restaurant kruys straete","latitude":2.492943,"longitude":50.883945}
+,
+{"name":"signal 2108","latitude":6.0597488,"longitude":45.0992132}
+,
+{"name":"la ferme du chozal","latitude":6.579818,"longitude":45.749975}
+,
+{"name":"la table de fernand","latitude":-0.0184281,"longitude":48.7452857}
+,
+{"name":"l'amaryllis","latitude":4.820051,"longitude":46.760529}
+,
+{"name":"le caveau","latitude":3.9319403,"longitude":49.0734617}
+,
+{"name":"l'ecume gourmande","latitude":4.6711765,"longitude":46.1196138}
+,
+{"name":"les saveurs sauvages","latitude":2.1367785,"longitude":48.6987745}
+,
+{"name":"loulou cote sauvage","latitude":-1.8109311,"longitude":46.4932837}
+,
+{"name":"muller","latitude":7.6352744,"longitude":48.9523443}
+,
+{"name":"restaurant didier méril","latitude":-2.0555262,"longitude":48.6274286}
+,
+{"name":"comte roger","latitude":2.3634731,"longitude":43.2062605}
+,
+{"name":"fleur de sureau","latitude":7.8797254,"longitude":48.6947703}
+,
+{"name":"hôtel de france","latitude":2.9554768,"longitude":46.3190863}
+,
+{"name":"la cafetiere felee","latitude":7.1247505,"longitude":43.5807251}
+,
+{"name":"la tete de lard","latitude":4.8354104,"longitude":45.768522}
+,
+{"name":"le cafe du port","latitude":-4.121235,"longitude":47.8740691}
+,
+{"name":"le grain de sable","latitude":-1.0927382,"longitude":46.0696891}
+,
+{"name":"le percolateur","latitude":2.3244444,"longitude":48.8824965}
+,
+{"name":"le sully","latitude":2.367835,"longitude":48.852671}
+,
+{"name":"wine bar - le cheval blanc","latitude":4.3606479,"longitude":43.8341234}
+,
+{"name":"au pas de l'alpette","latitude":5.966797,"longitude":45.459371}
+,
+{"name":"au vieux porche","latitude":7.3037065,"longitude":48.0423884}
+,
+{"name":"bistro d'antan","latitude":-0.6174778,"longitude":44.883941}
+,
+{"name":"brasserie des arts et metiers","latitude":6.1733756,"longitude":49.1111356}
+,
+{"name":"caffe mazzo","latitude":3.1404046,"longitude":45.76103}
+,
+{"name":"el theatris","latitude":6.172172,"longitude":49.1213059}
+,
+{"name":"hôtel de la marine","latitude":-0.6227177,"longitude":49.3404998}
+,
+{"name":"la fleur de sel","latitude":2.887325,"longitude":49.2353708}
+,
+{"name":"la toile","latitude":3.1448985,"longitude":45.7554832}
+,
+{"name":"le bord d'eau","latitude":-0.2737157,"longitude":44.9235316}
+,
+{"name":"le grand morien","latitude":2.37625,"longitude":51.0353319}
+,
+{"name":"le mormal","latitude":3.677179,"longitude":50.22749}
+,
+{"name":"le relais fleuri","latitude":3.959551,"longitude":47.50324}
+,
+{"name":"le vieux four","latitude":6.8417064,"longitude":46.2675978}
+,
+{"name":"les 3 cailloux","latitude":2.2970577,"longitude":49.8935909}
+,
+{"name":"oh terroir","latitude":2.7320179,"longitude":47.9928503}
+,
+{"name":"restaurant ebulli'sens","latitude":-1.675651,"longitude":48.1038348}
+,
+{"name":"touch in paris","latitude":2.326505,"longitude":48.871296}
+,
+{"name":"cafe des anges","latitude":4.8500585,"longitude":45.7655397}
+,
+{"name":"hotel aigle des neiges","latitude":6.9804029,"longitude":45.4480956}
+,
+{"name":"l'atelier ramey","latitude":2.3466494,"longitude":48.888305}
+,
+{"name":"le gaigne","latitude":2.3213659,"longitude":48.8763273}
+,
+{"name":"les saveurs de nicolas","latitude":-1.5470236,"longitude":48.0415441}
+,
+{"name":"cafe juliette","latitude":4.8574884,"longitude":45.7674404}
+,
+{"name":"coteaux et fourchettes","latitude":4.9453534,"longitude":44.20258}
+,
+{"name":"fleur de neige","latitude":6.8406534,"longitude":46.2622508}
+,
+{"name":"hotel restaurant aux trois roses","latitude":7.3201749,"longitude":48.8579221}
+,
+{"name":"la table de balthazar","latitude":-1.6776432,"longitude":48.1083537}
+,
+{"name":"le comptoir gali","latitude":-2.1012018,"longitude":47.1150362}
+,
+{"name":"ti kaz'la","latitude":-61.5795514,"longitude":15.8580015}
+,
+{"name":"a la pincee de sel","latitude":-2.414967,"longitude":47.3271306}
+,
+{"name":"auberge du cheval blanc","latitude":0.0137093,"longitude":49.1172927}
+,
+{"name":"brasserie mollard","latitude":2.3258352,"longitude":48.8752362}
+,
+{"name":"château des loges","latitude":4.605607,"longitude":46.061538}
+,
+{"name":"chez marcel","latitude":2.3284113,"longitude":48.843728}
+,
+{"name":"hotel de la providence","latitude":2.9345616,"longitude":45.5122593}
+,
+{"name":"hotel le lion d'or","latitude":3.2757705,"longitude":44.8035207}
+,
+{"name":"la marmite","latitude":6.541724,"longitude":45.313016}
+,
+{"name":"l'amandine","latitude":4.3833925,"longitude":45.4938896}
+,
+{"name":"le bernon","latitude":4.7370286,"longitude":45.4171583}
+,
+{"name":"le f2","latitude":4.8358549,"longitude":45.759159}
+,
+{"name":"le goeland","latitude":-3.1545895,"longitude":47.3476152}
+,
+{"name":"le plouc 2","latitude":-1.6238579,"longitude":49.6408485}
+,
+{"name":"les olivades","latitude":6.0437736,"longitude":44.5588296}
+,
+{"name":"restaurant l'auberge","latitude":-2.9489144,"longitude":47.7038333}
+,
+{"name":"bistrot terrasse","latitude":7.116238,"longitude":43.5676116}
+,
+{"name":"hostellerie du château de pray","latitude":1.0160192,"longitude":47.4250208}
+,
+{"name":"iloha seaview hotel","latitude":55.27768,"longitude":-21.14818}
+,
+{"name":"la route bleue","latitude":4.3238433,"longitude":45.4921622}
+,
+{"name":"le bouchon des halles","latitude":4.0751821,"longitude":46.0386166}
+,
+{"name":"les cedres","latitude":4.9838697,"longitude":45.0502761}
+,
+{"name":"restaurant de la place","latitude":6.0642682,"longitude":46.1407923}
+,
+{"name":"voyages des sens","latitude":5.3875896,"longitude":46.2981323}
+,
+{"name":"chateau de rigny","latitude":5.6239432,"longitude":47.4699277}
+,
+{"name":"cuisine comptoir et compagnie","latitude":-0.4571725,"longitude":46.3236501}
+,
+{"name":"culina hortus","latitude":4.837431,"longitude":45.76665}
+,
+{"name":"domaine du normandoux","latitude":0.5632819,"longitude":46.520719}
+,
+{"name":"la marée","latitude":2.3005797,"longitude":48.8774458}
+,
+{"name":"la villa des houx","latitude":1.7538295,"longitude":49.7661533}
+,
+{"name":"le moulin de bourgchateau","latitude":5.216994,"longitude":46.6329914}
+,
+{"name":"le pescadou","latitude":6.5858456,"longitude":43.2288923}
+,
+{"name":"l'o des vignes","latitude":4.743204,"longitude":46.280102}
+,
+{"name":"restaurant la villa","latitude":-2.0671537,"longitude":46.7819868}
+,
+{"name":"au p'tit creux","latitude":-4.4273641,"longitude":48.5020223}
+,
+{"name":"auberge côté rivière","latitude":5.1082951,"longitude":47.5239498}
+,
+{"name":"brasserie du 7ème art","latitude":6.841672,"longitude":47.4865621}
+,
+{"name":"l'auberge de la chèvre d'or","latitude":6.8740115,"longitude":43.6563749}
+,
+{"name":"la table gourmande","latitude":5.6881795,"longitude":45.1204199}
+,
+{"name":"la tetrade cote lac","latitude":-1.426919,"longitude":43.6648655}
+,
+{"name":"la voute chez lea","latitude":4.8304292,"longitude":45.7595607}
+,
+{"name":"le barriol","latitude":4.061762,"longitude":45.0330344}
+,
+{"name":"le lion d'argent","latitude":1.9918152,"longitude":46.5863342}
+,
+{"name":"le petit niçois bio","latitude":7.1681835,"longitude":43.6579487}
+,
+{"name":"les sens","latitude":7.2702171,"longitude":43.7002947}
+,
+{"name":"l'escapade","latitude":6.517495,"longitude":43.845671}
+,
+{"name":"l'eveil des sens","latitude":4.007347,"longitude":45.729736}
+,
+{"name":"loiseau des vignes","latitude":4.8346261,"longitude":47.0226094}
+,
+{"name":"m restaurant","latitude":4.8437793,"longitude":45.7705596}
+,
+{"name":"manoir d'acherie","latitude":-1.1907949,"longitude":48.8463392}
+,
+{"name":"restaurant choko ona","latitude":-1.1972419,"longitude":43.1651691}
+,
+{"name":"auberge de la forêt","latitude":-1.765988,"longitude":47.52687}
+,
+{"name":"l'albatros","latitude":-2.5721071,"longitude":47.5171527}
+,
+{"name":"le lion d'or","latitude":7.3201749,"longitude":48.8579221}
+,
+{"name":"bistro canailles","latitude":6.1235125,"longitude":45.9094474}
+,
+{"name":"le grain de folie","latitude":2.7526163,"longitude":50.7271771}
+,
+{"name":"le ti st barth","latitude":-62.816757,"longitude":17.913673}
+,
+{"name":"l'oustau de baumaniere","latitude":4.7964642,"longitude":43.7491026}
+,
+{"name":"au vieux comptoir","latitude":2.3459708,"longitude":48.8588274}
+,
+{"name":"les terrasses de l'erdre","latitude":-1.5316443,"longitude":47.259204}
+,
+{"name":"restaurant  au raisin d'or ","latitude":7.2346506,"longitude":48.0741569}
+,
+{"name":"castel de tres girard","latitude":4.9660765,"longitude":47.1950055}
+,
+{"name":"bistrot du coin","latitude":6.2198356,"longitude":45.7742491}
+,
+{"name":"le laurier","latitude":2.8556011,"longitude":47.3398786}
+,
+{"name":"toit pour toi","latitude":3.1691582,"longitude":45.7024738}
+,
+{"name":"brasserie paul","latitude":1.09392,"longitude":49.4399083}
+,
+{"name":"la table de michele","latitude":7.3429376,"longitude":47.7480503}
+,
+{"name":"l'ancienne ecole","latitude":2.9617972,"longitude":42.5734188}
+,
+{"name":"la table du marais","latitude":-1.8424216,"longitude":48.5943727}
+,
+{"name":"le coq rouge","latitude":6.0208981,"longitude":46.2430023}
+,
+{"name":"le retz","latitude":-2.100758,"longitude":47.1154441}
+,
+{"name":"le chai","latitude":-0.3291135,"longitude":45.693072}
+,
+{"name":"l'amarette","latitude":4.1322657,"longitude":43.5205242}
+,
+{"name":"le soleil d'or","latitude":3.6808442,"longitude":47.8641623}
+,
+{"name":"le peche mignon","latitude":-1.0816257,"longitude":49.1154683}
+,
+{"name":"restaurant brigitte","latitude":2.3141215,"longitude":48.8820075}
+,
+{"name":"monsieur restaurant","latitude":2.3033378,"longitude":48.8723438}
+,
+{"name":"la plage gourmande","latitude":3.0346973,"longitude":42.6925046}
+,
+{"name":"le boeuf a la mode","latitude":2.1309703,"longitude":48.8062304}
+,
+{"name":"les garcons bouchers","latitude":4.850451,"longitude":45.7634083}
+,
+{"name":"le relais de l'aubrac","latitude":3.0350458,"longitude":44.6926115}
+,
+{"name":"madloc'h","latitude":-2.4341572,"longitude":48.6371479}
+,
+{"name":"quai ouest","latitude":-61.5298494,"longitude":16.2202525}
+,
+{"name":"chez julien","latitude":7.2250614,"longitude":48.4863779}
+,
+{"name":"aux terrasses","latitude":4.9142504,"longitude":46.5590496}
+,
+{"name":"monte d'oro","latitude":9.114074,"longitude":42.112119}
+,
+{"name":"restaurant llorca","latitude":7.1090058,"longitude":43.6952838}
+,
+{"name":"la table du patissier","latitude":7.2620727,"longitude":48.1388275}
+,
+{"name":"au boeuf rouge","latitude":7.4175283,"longitude":48.386494}
+,
+{"name":"le bistrot du port","latitude":5.8857045,"longitude":45.7035814}
+,
+{"name":"restaurant grand hôtel de paris","latitude":5.5527305,"longitude":45.0714913}
+,
+{"name":"le manoir de la pommeraie","latitude":-0.860915,"longitude":48.829599}
+,
+{"name":"auberge des glazicks","latitude":-4.2345589,"longitude":48.1806455}
+,
+{"name":"casino des dunes","latitude":-1.325509,"longitude":46.332365}
+,
+{"name":"villa regalido","latitude":4.7095889,"longitude":43.7273465}
+,
+{"name":"la taverne alsacienne","latitude":6.8740959,"longitude":48.0714707}
+,
+{"name":"villa dondelli","latitude":2.3351095,"longitude":48.8683753}
+,
+{"name":"l'arome","latitude":3.6815575,"longitude":43.4405482}
+,
+{"name":"la pierre bleue","latitude":-1.6264715,"longitude":47.5645251}
+,
+{"name":"dans le noir","latitude":2.3505612,"longitude":48.8613472}
+,
+{"name":"le blavet","latitude":2.28806,"longitude":48.8454989}
+,
+{"name":"la vieille auberge","latitude":1.4756155,"longitude":44.8964058}
+,
+{"name":"l'ardoise","latitude":-2.1904813,"longitude":48.1886746}
+,
+{"name":"farniente restaurant","latitude":4.40168,"longitude":43.44888}
+,
+{"name":"hotel aster- les arcades","latitude":5.9338269,"longitude":49.2475256}
+,
+{"name":"au vieux chalet","latitude":6.5441459,"longitude":46.077779}
+,
+{"name":"cafe telline","latitude":6.5803303,"longitude":43.2743198}
+,
+{"name":"hôtel-restaurant la renaissance","latitude":0.1475333,"longitude":47.6477699}
+,
+{"name":"auberge le ratelier","latitude":-3.08044,"longitude":47.5828339}
+,
+{"name":"le poisson rouge","latitude":-2.139091,"longitude":46.8919598}
+,
+{"name":"le petit commines","latitude":2.3662418,"longitude":48.862033}
+,
+{"name":"le relais de la pastorale","latitude":2.076262,"longitude":44.398383}
+,
+{"name":"fleur de sel","latitude":2.3877541,"longitude":50.999419}
+,
+{"name":"le patio","latitude":2.3667672,"longitude":42.5869221}
+,
+{"name":"le bistro du château","latitude":4.7316878,"longitude":45.7911764}
+,
+{"name":"auberge le meisenberg","latitude":7.3994829,"longitude":48.2717624}
+,
+{"name":"la chamade","latitude":6.703371,"longitude":46.182135}
+,
+{"name":"le smart","latitude":5.045576,"longitude":47.3278975}
+,
+{"name":"villa borghèse","latitude":5.8928109,"longitude":43.7579904}
+,
+{"name":"aux trois cochons","latitude":4.8348348,"longitude":45.7569415}
+,
+{"name":"le phebus","latitude":5.202583,"longitude":43.9202452}
+,
+{"name":"l'islandais","latitude":-3.0448302,"longitude":48.7793384}
+,
+{"name":"la brigantine","latitude":-3.078555,"longitude":47.5828254}
+,
+{"name":"hostellerie saint louis","latitude":2.3328245,"longitude":50.8662707}
+,
+{"name":"le cheval noir","latitude":4.8372047,"longitude":47.0206029}
+,
+{"name":"restaurant bonnet","latitude":-1.4062009,"longitude":43.3324589}
+,
+{"name":"la charpiniere","latitude":4.3104367,"longitude":45.5887841}
+,
+{"name":"le sorgia","latitude":5.8321339,"longitude":46.1252344}
+,
+{"name":"restaurant maximilien","latitude":7.318934,"longitude":48.1693146}
+,
+{"name":"cafe du peintre","latitude":4.8568551,"longitude":45.7657649}
+,
+{"name":"le 44","latitude":7.12478,"longitude":43.576566}
+,
+{"name":"a la truite","latitude":7.4320975,"longitude":48.1846676}
+,
+{"name":"chez les gones","latitude":4.850451,"longitude":45.7634083}
+,
+{"name":"le christine","latitude":2.3403808,"longitude":48.8542955}
+,
+{"name":"auberge de ti coz","latitude":-4.0723739,"longitude":48.0426621}
+,
+{"name":"la table du trappeur","latitude":6.6170993,"longitude":45.8553191}
+,
+{"name":"la terrasse des etangs","latitude":5.0044603,"longitude":46.2342005}
+,
+{"name":"hotel duguesclin","latitude":-1.5098544,"longitude":48.6357319}
+,
+{"name":"auberge de contrevoz","latitude":5.595563,"longitude":45.815084}
+,
+{"name":"comptoir du marche","latitude":-0.4360621,"longitude":45.4449862}
+,
+{"name":"la fleur de sel","latitude":1.8826518,"longitude":47.9839729}
+,
+{"name":"l'atelier du moûtier","latitude":1.5316849,"longitude":45.1584137}
+,
+{"name":"villa sainte anne","latitude":6.2038753,"longitude":43.0000406}
+,
+{"name":"le fatra","latitude":-1.7964355,"longitude":46.4961979}
+,
+{"name":"jean's cafe","latitude":1.5847819,"longitude":50.5239431}
+,
+{"name":"l'ambassade","latitude":1.2637528,"longitude":45.8306855}
+,
+{"name":"le relais de sologne","latitude":2.0220968,"longitude":47.699304}
+,
+{"name":"domaine du seudre","latitude":-0.6852631,"longitude":45.5087798}
+,
+{"name":"la table de nans","latitude":5.6681162,"longitude":43.1820104}
+,
+{"name":"restaurant de la pointe","latitude":-3.9782171,"longitude":47.8897675}
+,
+{"name":"restaurant le miramar","latitude":5.3732016,"longitude":43.2965064}
+,
+{"name":"la rascasse","latitude":6.1310105,"longitude":43.0380553}
+,
+{"name":"les palmiers","latitude":3.6066013,"longitude":43.4285517}
+,
+{"name":"steel pan","latitude":-61.0786053,"longitude":14.611924}
+,
+{"name":"hôtel florimont & le chalet florimont","latitude":6.3165995,"longitude":45.7595833}
+,
+{"name":"renaudmets","latitude":5.0495971,"longitude":43.9182159}
+,
+{"name":"la salle a manger","latitude":5.0216036,"longitude":44.7248742}
+,
+{"name":"l'ilot bleu","latitude":-2.2425344,"longitude":47.0009287}
+,
+{"name":"ar maen hir","latitude":-4.2111946,"longitude":48.0975375}
+,
+{"name":"le moulin des saveurs","latitude":-0.1394024,"longitude":47.2251223}
+,
+{"name":"castel beau site","latitude":-3.486715,"longitude":48.832088}
+,
+{"name":"restaurant les deux rives","latitude":3.150429,"longitude":44.424473}
+,
+{"name":"riviera iii","latitude":5.8038529,"longitude":43.0778129}
+,
+{"name":"restaurant furana","latitude":9.2795827,"longitude":41.5898436}
+,
+{"name":"8 bakery","latitude":7.2752614,"longitude":43.6971108}
+,
+{"name":"alexandre","latitude":4.4229104,"longitude":43.7685721}
+,
+{"name":"atelier d'avron","latitude":2.5008644,"longitude":48.8454722}
+,
+{"name":"au 14 fevrier","latitude":4.750514,"longitude":46.241897}
+,
+{"name":"au chapeau rouge","latitude":0.2405056,"longitude":47.167303}
+,
+{"name":"au hasard balthazar","latitude":1.6086343,"longitude":44.9369705}
+,
+{"name":"au jardin l'eden","latitude":6.582716,"longitude":46.3999723}
+,
+{"name":"au vrai normand vire","latitude":-0.8890541,"longitude":48.8370267}
+,
+{"name":"auberge de la grenouillere","latitude":1.754353,"longitude":50.4710684}
+,
+{"name":"auberge de la roche","latitude":-1.71642,"longitude":47.59746}
+,
+{"name":"auberge de l'omois","latitude":3.6139168,"longitude":48.9864795}
+,
+{"name":"auberge de noves","latitude":4.8911954,"longitude":43.8863016}
+,
+{"name":"auberge des deux magots","latitude":-2.3026214,"longitude":47.518514}
+,
+{"name":"auberge du  val de vienne","latitude":0.3417372,"longitude":47.132591}
+,
+{"name":"auberge du cheval blanc","latitude":7.8523608,"longitude":49.0189586}
+,
+{"name":"auberge du père bise","latitude":6.2108,"longitude":45.83925}
+,
+{"name":"auberge du rallye","latitude":0.1261738,"longitude":47.9001519}
+,
+{"name":"auberge du trieux","latitude":-3.1063334,"longitude":48.7847651}
+,
+{"name":"auberge du vieux puits","latitude":2.7919688,"longitude":43.0474753}
+,
+{"name":"auberge ravoux","latitude":2.1721394,"longitude":49.070075}
+,
+{"name":"aux 2 fontaines","latitude":6.361456,"longitude":43.4930779}
+,
+{"name":"aux saveurs du thurtal","latitude":7.0790005,"longitude":47.8289082}
+,
+{"name":"baltard au louvre","latitude":2.3422772,"longitude":48.863311}
+,
+{"name":"bellagio","latitude":2.2855796,"longitude":48.8804762}
+,
+{"name":"best western la fayette","latitude":6.4642856,"longitude":48.1975329}
+,
+{"name":"bistrot des lavandieres","latitude":7.3569145,"longitude":48.0742336}
+,
+{"name":"brasserie chavant","latitude":5.7260204,"longitude":45.1880412}
+,
+{"name":"brasserie le donjon","latitude":2.3631103,"longitude":43.2063936}
+,
+{"name":"brasserie quartier gabriel","latitude":5.8097374,"longitude":45.2143052}
+,
+{"name":"casa fiorino","latitude":6.2344177,"longitude":43.1373241}
+,
+{"name":"castel damandre","latitude":5.8056149,"longitude":46.8756943}
+,
+{"name":"caveau morakopf","latitude":7.2758013,"longitude":48.0995752}
+,
+{"name":"chai nous comme chai vous","latitude":-1.3240171,"longitude":46.1868879}
+,
+{"name":"château de besseuil","latitude":4.8197577,"longitude":46.4189739}
+,
+{"name":"château d'hadomenil","latitude":6.4625772,"longitude":48.5648654}
+,
+{"name":"bodega chez gilles","latitude":-1.4751695,"longitude":43.4888101}
+,
+{"name":"chez jules","latitude":4.8601991,"longitude":46.7799548}
+,
+{"name":"chez laurent","latitude":6.364359,"longitude":43.134065}
+,
+{"name":"chez michel","latitude":7.2309233,"longitude":43.7906771}
+,
+{"name":"chez michel","latitude":2.3527378,"longitude":48.8794055}
+,
+{"name":"chez pierre","latitude":7.5403908,"longitude":47.8855623}
+,
+{"name":"comptoir saint sebastien","latitude":3.1613728,"longitude":46.9893308}
+,
+{"name":"cour des loges","latitude":4.8270442,"longitude":45.762911}
+,
+{"name":"crystal","latitude":7.6427263,"longitude":48.4218461}
+,
+{"name":"domaine de la tortiniere","latitude":0.7091596,"longitude":47.3014408}
+,
+{"name":"domaine de piscia","latitude":9.114868,"longitude":41.543009}
+,
+{"name":"domaine des sequoias","latitude":5.3079521,"longitude":45.5832115}
+,
+{"name":"ecluse 16","latitude":6.9999611,"longitude":48.9054235}
+,
+{"name":"fourche et fourchette","latitude":5.6039973,"longitude":49.4440181}
+,
+{"name":"gallery 412","latitude":5.0514031,"longitude":47.35548}
+,
+{"name":"goxoki","latitude":-1.4725091,"longitude":43.49076}
+,
+{"name":"grand hotel de la plage","latitude":-1.2560502,"longitude":44.4444445}
+,
+{"name":"grand hotel de solesmes","latitude":-0.3027325,"longitude":47.8514124}
+,
+{"name":"grand hotel pelisson","latitude":0.6623726,"longitude":45.5298269}
+,
+{"name":"histoire ancienne","latitude":1.8497744,"longitude":50.956886}
+,
+{"name":"hostellerie de la gabelle","latitude":-1.0137046,"longitude":47.3639112}
+,
+{"name":"hostellerie de levernois","latitude":4.8804489,"longitude":46.992778}
+,
+{"name":"hostellerie du beffroy","latitude":2.9328042,"longitude":45.5111003}
+,
+{"name":"hostellerie du grand sully","latitude":2.3761286,"longitude":47.7643419}
+,
+{"name":"hostellerie reygrobellet","latitude":5.741302,"longitude":46.1767276}
+,
+{"name":"hotel chalet mounier","latitude":6.120929,"longitude":45.003651}
+,
+{"name":"hôtel de france","latitude":1.9988157,"longitude":48.3125911}
+,
+{"name":"hôtel de france","latitude":-4.5971132,"longitude":48.2783732}
+,
+{"name":"hotel de la plage","latitude":-2.5863043,"longitude":47.5180082}
+,
+{"name":"hotel du pont","latitude":0.9637822,"longitude":47.7871986}
+,
+{"name":"hotel windsor","latitude":7.2613321,"longitude":43.6978668}
+,
+{"name":"hotel-restaurant les mouettes","latitude":-3.3999627,"longitude":47.7035346}
+,
+{"name":"hôtel-restaurant pont de l'ouysse","latitude":1.5501512,"longitude":44.8441136}
+,
+{"name":"la bastide saint antoine","latitude":6.9264007,"longitude":43.6467116}
+,
+{"name":"la bonne etape","latitude":6.0119245,"longitude":44.0939594}
+,
+{"name":"la cabro d'or","latitude":4.787464,"longitude":43.74012}
+,
+{"name":"la calypso","latitude":-3.1010814,"longitude":47.5803768}
+,
+{"name":"la cave bistrot et restaurant","latitude":7.5648312,"longitude":47.5849335}
+,
+{"name":"la chartreuse de bignac","latitude":0.562594,"longitude":44.793355}
+,
+{"name":"la chatellenie","latitude":0.6558305,"longitude":46.1211491}
+,
+{"name":"la cle des champs","latitude":6.0640357,"longitude":45.5005821}
+,
+{"name":"la cocotte","latitude":2.3969161,"longitude":51.0506301}
+,
+{"name":"la côte vermeille","latitude":3.1092089,"longitude":42.5200683}
+,
+{"name":"la cour verte","latitude":-1.7459696,"longitude":48.5448976}
+,
+{"name":"la creche","latitude":3.4724099,"longitude":45.2295303}
+,
+{"name":"la cuisine de morgane","latitude":6.9947557,"longitude":43.5910371}
+,
+{"name":"la cuisinerie","latitude":-2.5169048,"longitude":48.4677281}
+,
+{"name":"la fabrique","latitude":5.3285586,"longitude":45.9488977}
+,
+{"name":"la fleur de sel","latitude":6.4528451,"longitude":45.5894842}
+,
+{"name":"la gare restaurant","latitude":4.2301424,"longitude":45.7440197}
+,
+{"name":"la grande poste","latitude":-0.5818701,"longitude":44.8459383}
+,
+{"name":"la hache","latitude":7.7491779,"longitude":48.5794334}
+,
+{"name":"la halte nautique","latitude":4.5207506,"longitude":43.7445841}
+,
+{"name":"la litote","latitude":7.1140446,"longitude":43.7228576}
+,
+{"name":"la maison","latitude":4.8230061,"longitude":45.7313616}
+,
+{"name":"la maison d'a cote","latitude":1.4452039,"longitude":47.640969}
+,
+{"name":"la maison de nany","latitude":4.2368067,"longitude":44.4791531}
+,
+{"name":"la maison des tetes","latitude":7.3556707,"longitude":48.0785311}
+,
+{"name":"la mangeoire","latitude":6.6976209,"longitude":45.5135518}
+,
+{"name":"la manne","latitude":5.3821143,"longitude":43.300724}
+,
+{"name":"la marine","latitude":-2.2999217,"longitude":47.0236999}
+,
+{"name":"la nouvelle auberge","latitude":7.208428,"longitude":48.046279}
+,
+{"name":"la pêcherie","latitude":-0.4228224,"longitude":49.3351722}
+,
+{"name":"la petite auberge","latitude":0.1327701,"longitude":48.1495681}
+,
+{"name":"marius","latitude":-2.1041024,"longitude":47.114713}
+,
+{"name":"la rapiere","latitude":-0.699237,"longitude":49.27632}
+,
+{"name":"la remise","latitude":6.0785357,"longitude":45.1593357}
+,
+{"name":"la romaziere","latitude":-1.866208,"longitude":46.8575344}
+,
+{"name":"la rotonde","latitude":4.7319863,"longitude":45.7883564}
+,
+{"name":"la scierie","latitude":6.427833,"longitude":45.9060899}
+,
+{"name":"la suite","latitude":-1.1547968,"longitude":46.1561228}
+,
+{"name":"la table d'antan","latitude":0.6703807,"longitude":44.1857489}
+,
+{"name":"la table de fanette","latitude":6.1089774,"longitude":43.5822791}
+,
+{"name":"la table des chevaliers","latitude":7.7873996,"longitude":48.8186285}
+,
+{"name":"la table d'eugene","latitude":4.8371217,"longitude":45.770947}
+,
+{"name":"la villa archange","latitude":7.0150797,"longitude":43.5721843}
+,
+{"name":"la villa marine","latitude":1.375568,"longitude":50.062657}
+,
+{"name":"l'alsacienne","latitude":6.2343794,"longitude":46.1927827}
+,
+{"name":"l'anis etoile","latitude":7.2610767,"longitude":43.7084389}
+,
+{"name":"l'annexe","latitude":3.0947655,"longitude":45.7789684}
+,
+{"name":"l'arazur","latitude":7.1276322,"longitude":43.5820194}
+,
+{"name":"l'aromatic","latitude":-2.756944,"longitude":48.346699}
+,
+{"name":"l'art de vivre- château de l'hospitalet","latitude":3.168051,"longitude":43.1619219}
+,
+{"name":"l'atable","latitude":-1.4340902,"longitude":46.6689415}
+,
+{"name":"l'atalante","latitude":-1.302207,"longitude":46.1475883}
+,
+{"name":"l'atelier","latitude":7.7528949,"longitude":48.5889249}
+,
+{"name":"l'auberge de la charme","latitude":4.899055,"longitude":47.3757675}
+,
+{"name":"l'auberge du bougnat","latitude":2.94,"longitude":45.55}
+,
+{"name":"le  gaudissart","latitude":6.6518481,"longitude":44.3861612}
+,
+{"name":"le 1741","latitude":7.7535806,"longitude":48.5805191}
+,
+{"name":"le ballon des ternes","latitude":2.2854178,"longitude":48.8804886}
+,
+{"name":"le bateau ivre","latitude":6.326707,"longitude":46.370011}
+,
+{"name":"le bec figue","latitude":4.3069665,"longitude":44.4487264}
+,
+{"name":"le bel'vue","latitude":4.3054852,"longitude":46.1205642}
+,
+{"name":"le bistro du musee","latitude":-0.578627,"longitude":44.837026}
+,
+{"name":"le bistrot d'olivier","latitude":1.2576468,"longitude":45.8295083}
+,
+{"name":"le bistrot du port","latitude":-2.7643479,"longitude":48.5159276}
+,
+{"name":"le bivouac","latitude":2.2981409,"longitude":48.8743417}
+,
+{"name":"le boeuf maillot","latitude":2.2857503,"longitude":48.880391}
+,
+{"name":"le bouche à oreille","latitude":6.8421372,"longitude":48.4070196}
+,
+{"name":"le bowling du rouergue","latitude":2.588977,"longitude":44.373606}
+,
+{"name":"le cap horn","latitude":6.8705572,"longitude":45.9243343}
+,
+{"name":"le castillan","latitude":6.3037417,"longitude":45.0454402}
+,
+{"name":"le cauvet","latitude":6.533638,"longitude":43.251862}
+,
+{"name":"le cedre","latitude":3.1101035,"longitude":42.5130923}
+,
+{"name":"le centre by georges","latitude":4.836827,"longitude":45.760999}
+,
+{"name":"le chalet","latitude":1.8395572,"longitude":42.7183314}
+,
+{"name":"au bord de l'eau","latitude":4.9836069,"longitude":45.7769682}
+,
+{"name":"le chambard","latitude":7.2656478,"longitude":48.1386814}
+,
+{"name":"le cheval blanc","latitude":5.334141,"longitude":47.860422}
+,
+{"name":"le choka bleu","latitude":55.2467019,"longitude":-21.1031425}
+,
+{"name":"le clos","latitude":6.0837859,"longitude":44.5658935}
+,
+{"name":"le clos de l'hirondelle","latitude":3.8641036,"longitude":43.5836388}
+,
+{"name":"le clos du vigneron","latitude":2.4453397,"longitude":48.624737}
+,
+{"name":"le clos saint eloi","latitude":3.5101514,"longitude":45.8424869}
+,
+{"name":"le colvert","latitude":-1.8765927,"longitude":47.0246339}
+,
+{"name":"bouchon palais grillet","latitude":4.8351088,"longitude":45.7627901}
+,
+{"name":"le cristal","latitude":3.2168621,"longitude":43.3421611}
+,
+{"name":"le dauphin","latitude":-0.3648977,"longitude":49.1845272}
+,
+{"name":"le dessirier","latitude":2.2968178,"longitude":48.8843869}
+,
+{"name":"le fanal","latitude":3.132144,"longitude":42.479788}
+,
+{"name":"le feu de bois","latitude":3.4531021,"longitude":45.8638239}
+,
+{"name":"le fort du pre","latitude":4.4218266,"longitude":45.1375119}
+,
+{"name":"le gaulois","latitude":7.4758105,"longitude":47.6357161}
+,
+{"name":"le goldert","latitude":7.2750404,"longitude":48.0038998}
+,
+{"name":"le grain de sel","latitude":5.5551899,"longitude":46.6767422}
+,
+{"name":"le grand largue","latitude":-2.9172232,"longitude":47.5486902}
+,
+{"name":"le jardin aux sources","latitude":3.7018844,"longitude":43.878756}
+,
+{"name":"le lancelot","latitude":2.1348215,"longitude":48.0710758}
+,
+{"name":"la table","latitude":6.1695786,"longitude":49.1141313}
+,
+{"name":"le mansouria","latitude":2.3835397,"longitude":48.8513425}
+,
+{"name":"le mas de la madeleine","latitude":4.2894748,"longitude":44.5396727}
+,
+{"name":"le meurin","latitude":2.506979,"longitude":50.5818992}
+,
+{"name":"le patio","latitude":3.2135746,"longitude":43.3438893}
+,
+{"name":"le plan b","latitude":4.8570761,"longitude":45.7673836}
+,
+{"name":"le poisson d'argent","latitude":-0.1283366,"longitude":49.2859746}
+,
+{"name":"le pont saint etienne","latitude":1.271341,"longitude":45.8285805}
+,
+{"name":"le porc saint-leu","latitude":2.3055107,"longitude":49.8963442}
+,
+{"name":"le pre de montpezat","latitude":1.4915135,"longitude":44.2538872}
+,
+{"name":"le p'tit cageot","latitude":7.1246126,"longitude":43.5815858}
+,
+{"name":"le raphael","latitude":-3.632554,"longitude":47.818244}
+,
+{"name":"le résinier","latitude":-0.7689406,"longitude":44.607818}
+,
+{"name":"le rivalet","latitude":3.0592035,"longitude":45.5722477}
+,
+{"name":"le sardaigne","latitude":3.9585815,"longitude":49.0448736}
+,
+{"name":"le segustero","latitude":5.9092092,"longitude":44.2332355}
+,
+{"name":"le solendo","latitude":-0.0409251,"longitude":44.5819371}
+,
+{"name":"le suquet","latitude":2.8526776,"longitude":44.6846608}
+,
+{"name":"au fil des saisons","latitude":2.0593773,"longitude":49.0433175}
+,
+{"name":"carre des gourmets","latitude":1.7546803,"longitude":44.1504753}
+,
+{"name":"le vivier","latitude":5.0634676,"longitude":43.9257277}
+,
+{"name":"l'ecu de france","latitude":2.4152715,"longitude":48.29668}
+,
+{"name":"l'entre nous","latitude":1.6935833,"longitude":46.8101715}
+,
+{"name":"l'equinoxe","latitude":-1.4364976,"longitude":46.3422447}
+,
+{"name":"leriche de saveurs","latitude":1.4433746,"longitude":43.5951686}
+,
+{"name":"l'ermitage","latitude":-0.4058866,"longitude":47.9825509}
+,
+{"name":"les agneaux","latitude":6.3359319,"longitude":45.0441394}
+,
+{"name":"les caudalies","latitude":5.758861,"longitude":46.9134235}
+,
+{"name":"les délices de la roche","latitude":-0.2949656,"longitude":47.2324604}
+,
+{"name":"les embruns","latitude":-2.0055153,"longitude":48.6552235}
+,
+{"name":"les flots bleus","latitude":1.8358678,"longitude":44.9816921}
+,
+{"name":"les fous de l'ile","latitude":2.3568086,"longitude":48.8522476}
+,
+{"name":"les hospitaliers","latitude":5.0150803,"longitude":44.5367513}
+,
+{"name":"les menestrels","latitude":-0.0713949,"longitude":47.2577121}
+,
+{"name":"les pissenlits","latitude":6.1821981,"longitude":48.688345}
+,
+{"name":"les remparts","latitude":2.4934233,"longitude":45.1370713}
+,
+{"name":"les sept mers","latitude":-2.005072,"longitude":48.655662}
+,
+{"name":"les tanneurs","latitude":5.5945382,"longitude":48.7622712}
+,
+{"name":"les tournesols","latitude":6.4426152,"longitude":46.3518875}
+,
+{"name":"l'escudella","latitude":2.3091906,"longitude":48.8505535}
+,
+{"name":"l'europe","latitude":9.2999119,"longitude":42.681263}
+,
+{"name":"l'hostellerie de la poste","latitude":3.5214174,"longitude":47.4598356}
+,
+{"name":"l'huitrier pie","latitude":-0.1558096,"longitude":44.8916323}
+,
+{"name":"li vigni ristorante pizzeria","latitude":4.8863235,"longitude":45.7501955}
+,
+{"name":"l'impromptu","latitude":6.182117,"longitude":48.689543}
+,
+{"name":"l'inattendu","latitude":5.716466,"longitude":45.1906261}
+,
+{"name":"lou cantoun","latitude":1.984405,"longitude":43.980849}
+,
+{"name":"michel sarran","latitude":1.4345219,"longitude":43.6073013}
+,
+{"name":"mon petit resto","latitude":6.9691595,"longitude":43.6200635}
+,
+{"name":"restaurant mon plaisir","latitude":6.8272885,"longitude":47.3466057}
+,
+{"name":"neige et roc","latitude":6.7191914,"longitude":46.0845489}
+,
+{"name":"o caprices de mathias","latitude":4.8405433,"longitude":43.782376}
+,
+{"name":"o z'epices","latitude":-61.771094,"longitude":16.127337}
+,
+{"name":"o'bistrot","latitude":4.9541544,"longitude":45.6600978}
+,
+{"name":"o'jasmin","latitude":3.8158842,"longitude":43.6772625}
+,
+{"name":"pavillon de la grande cascade","latitude":2.2491727,"longitude":48.8624402}
+,
+{"name":"pirouette","latitude":2.347936,"longitude":48.862971}
+,
+{"name":"pomze","latitude":2.3167081,"longitude":48.8749567}
+,
+{"name":"pourquoi pas","latitude":1.2899245,"longitude":43.5955932}
+,
+{"name":"quinte et sens","latitude":5.760185,"longitude":45.1590672}
+,
+{"name":"bistrovino","latitude":-1.882292,"longitude":46.834821}
+,
+{"name":"restaurant de la maison de pays","latitude":0.1350526,"longitude":46.8966697}
+,
+{"name":"restaurant des promeneurs","latitude":3.819789,"longitude":45.107138}
+,
+{"name":"domaine de l'adoux","latitude":6.333242,"longitude":44.4030919}
+,
+{"name":"restaurant du château","latitude":7.2620727,"longitude":48.1388275}
+,
+{"name":"restaurant du mouton","latitude":7.3166706,"longitude":48.1960393}
+,
+{"name":"restaurant la cabane","latitude":6.8883557,"longitude":45.9425155}
+,
+{"name":"restaurant la gloire","latitude":2.740096,"longitude":48.0062367}
+,
+{"name":"restaurant la petite auberge","latitude":-1.4516614,"longitude":43.3938346}
+,
+{"name":"restaurant le capu","latitude":6.180644,"longitude":48.6921907}
+,
+{"name":"restaurant le cerf","latitude":7.493637,"longitude":48.6210031}
+,
+{"name":"restaurant le tremplin","latitude":6.7013425,"longitude":46.1803506}
+,
+{"name":"restaurant l'echevin","latitude":7.3568528,"longitude":48.0736037}
+,
+{"name":"restaurant les charmilles","latitude":4.8463865,"longitude":46.7561391}
+,
+{"name":"restaurant les pins","latitude":6.1802324,"longitude":43.5671625}
+,
+{"name":"restaurant mado","latitude":1.6277168,"longitude":50.2142191}
+,
+{"name":"restaurant orsi pierre","latitude":4.8491295,"longitude":45.7694546}
+,
+{"name":"restaurant pierre","latitude":4.8315468,"longitude":46.303365}
+,
+{"name":"restaurant terre et mer","latitude":-2.9838367,"longitude":47.6650811}
+,
+{"name":"solenca","latitude":-0.0301711,"longitude":43.7625235}
+,
+{"name":"s'wacke hiesel","latitude":7.7607995,"longitude":48.5986625}
+,
+{"name":"tir na nog","latitude":3.0608046,"longitude":50.6271717}
+,
+{"name":"transparence","latitude":6.1811838,"longitude":48.6930407}
+,
+{"name":"verte campagne","latitude":1.411051,"longitude":43.5020006}
+,
+{"name":"villa duflot","latitude":2.8847713,"longitude":42.673487}
+,
+{"name":"villa saint antoine","latitude":-1.2786941,"longitude":47.086762}
+,
+{"name":"zebulon","latitude":2.3362479,"longitude":48.8641804}
+,
+{"name":"le marche","latitude":1.4429325,"longitude":44.4467802}
+,
+{"name":"ma table en ville","latitude":4.8358114,"longitude":46.3078532}
+,
+{"name":"le channel","latitude":-0.2525019,"longitude":49.2782098}
+,
+{"name":"goood","latitude":7.123922,"longitude":43.5797705}
+,
+{"name":"l'ô..berge du canal","latitude":3.286553,"longitude":43.316183}
+,
+{"name":"restaurant les roselières","latitude":5.7946415,"longitude":45.5701735}
+,
+{"name":"cuisine en cours","latitude":4.8877983,"longitude":45.7506835}
+,
+{"name":"restaurant le terminus","latitude":4.3433275,"longitude":44.4512052}
+,
+{"name":"bistrot colette the village","latitude":5.1607947,"longitude":45.6195724}
+,
+{"name":"le comptoir de pagny","latitude":5.195469,"longitude":47.0475843}
+,
+{"name":"a la fontaine au beurre","latitude":-2.8429142,"longitude":47.8721462}
+,
+{"name":"restaurant paulus","latitude":7.7566448,"longitude":48.5803884}
+,
+{"name":"le ballon voyageur","latitude":2.1457867,"longitude":48.9454844}
+,
+{"name":"restaurant la clef des champs","latitude":6.0853727,"longitude":46.0736691}
+,
+{"name":"l'ana'gram","latitude":-2.1041024,"longitude":47.114713}
+,
+{"name":"aux pesked deauville","latitude":0.0756081,"longitude":49.3580241}
+,
+{"name":"le jardin des saveurs","latitude":2.6157824,"longitude":48.7439065}
+,
+{"name":"l'auberge de sainte maure","latitude":4.0613125,"longitude":48.3448275}
+,
+{"name":"clos fleuri","latitude":1.9720602,"longitude":43.3093163}
+,
+{"name":"la table  du couvent","latitude":1.2512879,"longitude":45.8296046}
+,
+{"name":"les enfants terribles","latitude":2.9340419,"longitude":42.5229224}
+,
+{"name":"hôtel riva bella thalassothérapie thalazur","latitude":-0.2618069,"longitude":49.2892949}
+,
+{"name":"restaurant l'aubergine","latitude":-2.9537221,"longitude":47.7037434}
+,
+{"name":"sunset beach","latitude":0.0380027,"longitude":49.3297819}
+,
+{"name":"la barbiniere","latitude":-0.903677,"longitude":46.962855}
+,
+{"name":"le bien aller","latitude":2.439033,"longitude":47.4878877}
+,
+{"name":"chez lucien - bistrotier","latitude":4.8350645,"longitude":45.7756367}
+,
+{"name":"renaldo","latitude":3.9001736,"longitude":43.5714577}
+,
+{"name":"la table dambre","latitude":4.830551,"longitude":45.751928}
+,
+{"name":"nazère la table","latitude":0.7959456,"longitude":43.8873291}
+,
+{"name":"le jardin de tienou","latitude":4.6967889,"longitude":44.3767536}
+,
+{"name":"lum la table","latitude":5.0734182,"longitude":44.2413429}
+,
+{"name":"restaurant l'impala des vignes","latitude":4.7719197,"longitude":46.3323891}
+,
+{"name":"restaurant la suite...","latitude":0.0888409,"longitude":48.4325155}
+,
+{"name":"l'envue","latitude":2.322374,"longitude":48.8699602}
+,
+{"name":"anthony\\'z","latitude":6.1449643,"longitude":45.9214163}
+,
+{"name":"le dixvin","latitude":5.3680634,"longitude":43.7363928}
+,
+{"name":"auberge de meyrals","latitude":1.0649402,"longitude":44.9008947}
+,
+{"name":"les jardins du capitole","latitude":7.2548397,"longitude":43.6936829}
+,
+{"name":"restaurant philippe bouvard","latitude":5.3562851,"longitude":46.4556048}
+,
+{"name":"l'arum","latitude":6.1296175,"longitude":43.1199073}
+,
+{"name":"le moulin de valaurie","latitude":4.8220486,"longitude":44.4177891}
+,
+{"name":"restaurant la saulire","latitude":6.6356771,"longitude":45.4152425}
+,
+{"name":"le baragnas","latitude":4.467323,"longitude":44.0172}
+,
+{"name":"auberge pyrénées cévennes","latitude":2.368866,"longitude":48.8678649}
+,
+{"name":"le coeur de vall'","latitude":6.7616578,"longitude":45.5558536}
+,
+{"name":"loustal","latitude":0.705899,"longitude":44.406375}
+,
+{"name":"le coraly","latitude":-1.5439832,"longitude":47.1775173}
+,
+{"name":"auberge les olivades","latitude":5.139977,"longitude":43.732337}
+,
+{"name":"le saint pierre","latitude":1.3687515,"longitude":48.7367184}
+,
+{"name":"bistrot brick house","latitude":5.9049554,"longitude":45.5790776}
+,
+{"name":"auberge du rohan","latitude":-2.7645393,"longitude":47.7143086}
+,
+{"name":"les cocottes d'hélène","latitude":2.808462,"longitude":48.8637498}
+,
+{"name":"terrasse cafe","latitude":6.9264999,"longitude":45.9787574}
+,
+{"name":"restaurant l\\'absinthe","latitude":-2.0248905,"longitude":48.6481904}
+,
+{"name":"les fées mères","latitude":2.8109895,"longitude":45.5728897}
+,
+{"name":"l'instant gourmet","latitude":-1.0802014,"longitude":43.672465}
+,
+{"name":"l'ardoise","latitude":3.8831918,"longitude":45.0426753}
+,
+{"name":"la table du mas des ecureuils","latitude":5.3979123,"longitude":43.512416}
+,
+{"name":"le mazet du basilic","latitude":6.6350535,"longitude":43.4578072}
+,
+{"name":"l'hippocampe","latitude":5.3677628,"longitude":43.2959984}
+,
+{"name":"le cozy","latitude":1.942656,"longitude":48.8315225}
+,
+{"name":"la part des anges","latitude":-1.9439567,"longitude":48.2950147}
+,
+{"name":"les salons leopold","latitude":1.961367,"longitude":48.674232}
+,
+{"name":"la table des écoliers","latitude":2.4556212,"longitude":50.749467}
+,
+{"name":"le céladon","latitude":2.3311128,"longitude":48.8696807}
+,
+{"name":"crêperie histoire de crêpes","latitude":-4.5722429,"longitude":48.5871955}
+,
+{"name":"les 5 bouchons","latitude":1.3539689,"longitude":44.0174111}
+,
+{"name":"la touna","latitude":-61.77624,"longitude":16.167852}
+,
+{"name":"le baribal","latitude":2.3088319,"longitude":48.8419967}
+,
+{"name":"le bourguignon","latitude":5.269515,"longitude":47.4664728}
+,
+{"name":"l'ethym'sel","latitude":4.8284029,"longitude":46.3028613}
+,
+{"name":"hotel restaurant les voyageurs","latitude":-2.754749,"longitude":48.1765803}
+,
+{"name":"le florilège chambéry","latitude":5.9404647,"longitude":45.5704001}
+,
+{"name":"le gueuleton","latitude":4.0355306,"longitude":49.2547461}
+,
+{"name":"la vacherie","latitude":-1.5559395,"longitude":47.2261149}
+,
+{"name":"l'escale de lupin","latitude":-1.0532756,"longitude":45.9522264}
+,
+{"name":"le florilège saint jorioz","latitude":6.1634473,"longitude":45.8334364}
+,
+{"name":"les cocottes de christian constant","latitude":6.086435,"longitude":46.1328869}
+,
+{"name":"miosca","latitude":2.3103541,"longitude":48.9102692}
+,
+{"name":"bistro les 2 mules","latitude":6.4343273,"longitude":45.907416}
+,
+{"name":"la cascade","latitude":-1.2839594,"longitude":47.0935899}
+,
+{"name":"restaurant le sound , hotel de la baie","latitude":-1.580609,"longitude":48.853375}
+,
+{"name":"hotel & restaurant isulella","latitude":9.2921339,"longitude":41.5592563}
+,
+{"name":"l'allée des vignes","latitude":1.843525,"longitude":44.48491}
+,
+{"name":"le castel fleuri","latitude":6.187171,"longitude":43.298298}
+,
+{"name":"le virgil","latitude":1.3941963,"longitude":43.6766848}
+,
+{"name":"met café","latitude":9.44854,"longitude":42.6988025}
+,
+{"name":"ferme de la besse","latitude":4.166656,"longitude":44.76195}
+,
+{"name":"l'assiette creuse","latitude":0.6980479,"longitude":46.9735501}
+,
+{"name":"black pearl","latitude":-61.2666677,"longitude":16.2528318}
+,
+{"name":"restaurant le citrus","latitude":-2.0564634,"longitude":48.6343476}
+,
+{"name":"restaurant les suds esterel caravaning","latitude":6.8335253,"longitude":43.4518443}
+,
+{"name":"restaurant l'osmose","latitude":-1.951759,"longitude":48.5103236}
+,
+{"name":"o paille en queue","latitude":5.0457282,"longitude":45.6869195}
+,
+{"name":"hotel restaurant le sorbier","latitude":0.6003172,"longitude":45.1653687}
+,
+{"name":"restaurant l'observatoire","latitude":6.1881862,"longitude":46.1457765}
+,
+{"name":"restaurant le brantome","latitude":-61.5298738,"longitude":16.2205233}
+,
+{"name":"le bastion","latitude":2.6199192,"longitude":43.0891721}
+,
+{"name":"le café du château","latitude":4.390024,"longitude":44.620239}
+,
+{"name":"table & partage","latitude":4.8659077,"longitude":45.759878}
+,
+{"name":"les coqs","latitude":2.4701519,"longitude":48.402227}
+,
+{"name":"restaurant la cigogne","latitude":0.1803711,"longitude":45.6352408}
+,
+{"name":"la nouvelle vague","latitude":3.0424646,"longitude":42.5624433}
+,
+{"name":"le magellan","latitude":6.9404614,"longitude":43.5082242}
+,
+{"name":"le duplex","latitude":5.9198318,"longitude":45.5704606}
+,
+{"name":"restaurant le moulin","latitude":-1.5141066,"longitude":46.935755}
+,
+{"name":"la primatiale","latitude":6.1852601,"longitude":48.6904131}
+,
+{"name":"les 4 saisons","latitude":0.4268147,"longitude":48.18141}
+,
+{"name":"le cambronne","latitude":-1.5618567,"longitude":47.2121876}
+,
+{"name":"l'ile restaurant","latitude":4.816789,"longitude":45.643954}
+,
+{"name":"auberge aux deux clefs","latitude":7.6871279,"longitude":48.8689964}
+,
+{"name":"auberge des carrières","latitude":5.0933959,"longitude":43.8334867}
+,
+{"name":"l'adresse","latitude":4.3655659,"longitude":44.6643116}
+,
+{"name":"restaurant la marjolaine","latitude":3.2294469,"longitude":43.3442582}
+,
+{"name":"la table du martin bel air","latitude":3.25773,"longitude":48.212277}
+,
+{"name":"le colvert bistrot","latitude":2.3400649,"longitude":48.853608}
+,
+{"name":"auberge des baronnies","latitude":5.6139867,"longitude":44.4157444}
+,
+{"name":"moulin rouge","latitude":2.3324638,"longitude":48.8841303}
+,
+{"name":"au caprice des deux","latitude":6.6407713,"longitude":43.271607}
+,
+{"name":"brasserie des terreaux","latitude":5.685853,"longitude":45.760165}
+,
+{"name":"le grand hotel","latitude":0.4176042,"longitude":47.6955907}
+,
+{"name":"le fusain","latitude":2.3372504,"longitude":48.8853451}
+,
+{"name":"léchappée belle","latitude":4.9039063,"longitude":44.8492442}
+,
+{"name":"restaurant le v","latitude":2.1312005,"longitude":48.8071062}
+,
+{"name":"o plaisir des sens","latitude":1.2098668,"longitude":44.8127134}
+,
+{"name":"la métairie","latitude":6.680917,"longitude":45.5087765}
+,
+{"name":"domaine moka","latitude":55.5135797,"longitude":-20.9282586}
+,
+{"name":"cafe flow","latitude":4.7251164,"longitude":45.8166166}
+,
+{"name":"l'effet maison","latitude":0.7684525,"longitude":44.5324785}
+,
+{"name":"restaurant o'33","latitude":3.1269625,"longitude":43.2903628}
+,
+{"name":"restaurant de la forêt","latitude":7.6345833,"longitude":48.8499086}
+,
+{"name":"le purgatoire","latitude":7.7574806,"longitude":48.5795413}
+,
+{"name":"le verre y table","latitude":-0.1789603,"longitude":45.6719427}
+,
+{"name":"secret des lys","latitude":-1.2125623,"longitude":47.3894666}
+,
+{"name":"sarlla pyramide des saveurs - le fort","latitude":1.3572851,"longitude":44.0191334}
+,
+{"name":"le zèbre vert","latitude":6.3487274,"longitude":43.1358289}
+,
+{"name":"cote saveurs","latitude":4.1734874,"longitude":46.1579556}
+,
+{"name":"le martini","latitude":4.8427419,"longitude":45.773012}
+,
+{"name":"la corbeille fleurie","latitude":4.663819,"longitude":45.9695723}
+,
+{"name":"hotel beauregard","latitude":6.1421846,"longitude":45.8771443}
+,
+{"name":"le petit bouchon","latitude":5.4282,"longitude":43.863497}
+,
+{"name":"armoric hôtel","latitude":-4.1070426,"longitude":47.8780924}
+,
+{"name":"l'ancien moulin","latitude":6.1755409,"longitude":48.646412}
+,
+{"name":"l'oh à la bouche !","latitude":2.4428811,"longitude":44.9257692}
+,
+{"name":"celest bar et restaurant","latitude":4.8539749,"longitude":45.7610058}
+,
+{"name":"le grand réfectoire","latitude":4.8365191,"longitude":45.7588437}
+,
+{"name":"auberge du cep","latitude":4.6974157,"longitude":46.1925908}
+,
+{"name":"le grain de sel des 3 tiki","latitude":1.533508,"longitude":45.1569351}
+,
+{"name":"sarl l'ecocotte","latitude":5.7124597,"longitude":45.1870791}
+,
+{"name":"hôtel de france","latitude":-1.1002629,"longitude":49.3188977}
+,
+{"name":"auberge de la belette","latitude":3.6418658,"longitude":45.5696339}
+,
+{"name":"le chalet du lac ","latitude":5.9312367,"longitude":49.249791}
+,
+{"name":"le comptoir gourmand de lol","latitude":5.8953569,"longitude":45.2737842}
+,
+{"name":"le val trio","latitude":1.9673343,"longitude":47.8338176}
+,
+{"name":"le cheval blanc","latitude":7.4927274,"longitude":48.5420264}
+]
